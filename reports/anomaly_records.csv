@@ -1,0 +1,483 @@
+Row ID,Order ID,Order Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Sub-Category,Product Name,Sales,Order_Month,Order_Quarter,Order_Weekday,High_Sales
+2,CA-2017-152156,2017-08-11,2,CG-12520,Claire Gute,0,United States,Henderson,Kentucky,42420.0,2,FUR-CH-10000454,0,5,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",731.94,8,3,4,1
+4,US-2016-108966,2016-11-10,3,SO-20335,Sean O'Donnell,0,United States,Fort Lauderdale,Florida,33311.0,2,FUR-TA-10000577,0,16,Bretford CR4500 Series Slim Rectangular Table,957.5775,11,4,3,1
+8,CA-2015-115812,2015-09-06,3,BH-11710,Brosina Hoffman,0,United States,Los Angeles,California,90032.0,3,TEC-PH-10002275,2,13,Mitel 5320 IP Phone VoIP phone,907.152,9,3,6,1
+11,CA-2015-115812,2015-09-06,3,BH-11710,Brosina Hoffman,0,United States,Los Angeles,California,90032.0,3,FUR-TA-10001539,0,16,Chromcraft Rectangular Conference Tables,1706.184,9,3,6,1
+12,CA-2015-115812,2015-09-06,3,BH-11710,Brosina Hoffman,0,United States,Los Angeles,California,90032.0,3,TEC-PH-10002033,2,13,Konftel 250 Conference phone - Charcoal black,911.424,9,3,6,1
+17,CA-2015-105893,2015-11-11,3,PK-19075,Pete Kriz,0,United States,Madison,Wisconsin,53711.0,0,OFF-ST-10004186,1,14,"Stur-D-Stor Shelving, Vertical 5-Shelf: 72""H x 36""W x 18 1/2""D",665.88,11,4,2,1
+36,CA-2017-117590,2017-08-12,0,GH-14485,Gene Hale,1,United States,Richardson,Texas,75080.0,0,TEC-PH-10004977,2,13,GE 30524EE4,1097.544,8,3,5,1
+55,CA-2017-105816,2017-11-12,3,JM-15265,Janet Molinari,1,United States,New York City,New York,10024.0,1,TEC-PH-10002447,2,13,AT&T CL83451 4-Handset Telephone,1029.95,11,4,6,1
+68,CA-2015-106376,2015-05-12,3,BS-11590,Brendan Sweed,1,United States,Gilbert,Arizona,85234.0,3,OFF-AR-10002671,1,2,"Hunt BOSTON Model 1606 High-Volume Electric Pencil Sharpener, Beige",1113.024,5,2,1,1
+118,CA-2016-110457,2016-02-03,3,DK-13090,Dave Kipp,0,United States,Seattle,Washington,98103.0,3,FUR-TA-10001768,0,16,Hon Racetrack Conference Tables,787.53,2,1,2,1
+146,CA-2016-110744,2016-07-09,3,HA-14920,Helen Andreada,0,United States,Pasadena,California,91104.0,3,OFF-ST-10003656,1,14,Safco Industrial Wire Shelving,671.93,7,3,5,1
+150,CA-2017-114489,2017-05-12,3,JE-16165,Justin Ellison,1,United States,Franklin,Wisconsin,53132.0,0,FUR-CH-10000454,0,5,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",1951.84,5,2,4,1
+166,CA-2015-139892,2015-08-09,3,BM-11140,Becky Martin,0,United States,San Antonio,Texas,78207.0,0,TEC-MA-10000822,2,11,Lexmark MX611dhe Monochrome Laser Printer,8159.952,8,3,6,1
+168,CA-2015-139892,2015-08-09,3,BM-11140,Becky Martin,0,United States,San Antonio,Texas,78207.0,0,FUR-CH-10004287,0,5,SAFCO Arco Folding Chair,1740.06,8,3,6,1
+190,CA-2016-102281,2016-12-10,0,MP-17470,Mark Packer,2,United States,New York City,New York,10035.0,1,FUR-BO-10002613,0,4,"Atlantic Metals Mobile 4-Shelf Bookcases, Custom Colors",899.136,12,4,5,1
+193,CA-2016-102281,2016-12-10,0,MP-17470,Mark Packer,2,United States,New York City,New York,10035.0,1,FUR-BO-10002545,0,4,"Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors",626.352,12,4,5,1
+216,CA-2016-146262,2016-02-01,3,VW-21775,Victoria Wilson,1,United States,Medina,Ohio,44256.0,1,TEC-MA-10000864,2,11,Cisco 9971 IP Video Phone Charcoal,1188.0,2,1,0,1
+227,CA-2016-163055,2016-09-08,3,DS-13180,David Smith,1,United States,Detroit,Michigan,48227.0,0,FUR-TA-10003748,0,16,Bevis 36 x 72 Conference Tables,622.45,9,3,3,1
+233,US-2018-100930,2018-07-04,3,CS-12400,Christopher Schild,2,United States,Tampa,Florida,33614.0,2,FUR-TA-10003473,0,16,Bretford Rectangular Conference Table Tops,620.6145,7,3,2,1
+236,US-2018-100930,2018-07-04,3,CS-12400,Christopher Schild,2,United States,Tampa,Florida,33614.0,2,TEC-AC-10003832,2,0,Logitech P710e Mobile Speakerphone,617.976,7,3,2,1
+245,CA-2015-131926,2015-01-06,2,DW-13480,Dianna Wilson,2,United States,Lakeville,Minnesota,55044.0,0,FUR-CH-10004063,0,5,Global Deluxe High-Back Manager's Chair,2001.86,1,1,1,1
+248,CA-2015-131926,2015-01-06,2,DW-13480,Dianna Wilson,2,United States,Lakeville,Minnesota,55044.0,0,OFF-AP-10002945,1,1,Honeywell Enviracaire Portable HEPA Air Cleaner for 17' x 22' Room,1503.25,1,1,1,1
+252,CA-2017-145625,2017-11-09,3,KC-16540,Kelly Collister,0,United States,San Diego,California,92037.0,3,TEC-AC-10003832,2,0,Logitech P710e Mobile Speakerphone,3347.37,11,4,3,1
+283,CA-2016-130890,2016-02-11,3,JO-15280,Jas O'Carroll,0,United States,Los Angeles,California,90004.0,3,FUR-TA-10002903,0,16,"Bevis Round Bullnose 29"" High Table Top",1038.84,2,1,3,1
+319,CA-2015-164973,2015-04-11,3,NM-18445,Nathan Mautz,2,United States,New York City,New York,10024.0,1,TEC-MA-10002927,2,11,Canon imageCLASS MF7460 Monochrome Digital Laser Multifunction Copier,3991.98,4,2,5,1
+336,CA-2016-137946,2016-01-09,2,DB-13615,Doug Bickford,0,United States,Los Angeles,California,90045.0,3,TEC-CO-10001449,2,6,Hewlett Packard LaserJet 3310 Copier,959.984,1,1,5,1
+339,CA-2015-129924,2015-12-07,3,AC-10420,Alyssa Crouse,1,United States,San Francisco,California,94122.0,3,FUR-TA-10004575,0,16,Hon 5100 Series Wood Tables,698.352,12,4,0,1
+354,CA-2017-129714,2017-01-09,0,AB-10060,Adam Bellavance,2,United States,New York City,New York,10009.0,1,OFF-BI-10004995,1,3,GBC DocuBind P400 Electric Binding System,4355.168,1,1,0,1
+360,CA-2018-155698,2018-08-03,0,VB-21745,Victoria Brennan,1,United States,Columbus,Georgia,31907.0,2,OFF-AP-10001124,1,1,Belkin 8 Outlet SurgeMaster II Gold Surge Protector with Phone Protection,647.84,8,3,4,1
+387,CA-2016-122756,2016-03-12,3,DK-13225,Dean Katz,1,United States,Philadelphia,Pennsylvania,19140.0,1,TEC-MA-10001681,2,11,Lexmark MarkNet N8150 Wireless Print Server,482.34,3,1,5,1
+400,CA-2017-108987,2017-08-09,2,AG-10675,Anna Gayman,0,United States,Houston,Texas,77036.0,0,FUR-BO-10004834,0,4,"Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish",2396.2656,8,3,2,1
+407,CA-2018-117457,2018-08-12,3,KH-16510,Keith Herrera,0,United States,San Francisco,California,94110.0,3,TEC-CO-10004115,2,6,Sharp AL-1530CS Digital Copier,1199.976,8,3,6,1
+409,CA-2018-117457,2018-08-12,3,KH-16510,Keith Herrera,0,United States,San Francisco,California,94110.0,3,FUR-TA-10002041,0,16,"Bevis Round Conference Table Top, X-Base",1004.024,8,3,6,1
+413,CA-2018-117457,2018-08-12,3,KH-16510,Keith Herrera,0,United States,San Francisco,California,94110.0,3,FUR-BO-10001972,0,4,O'Sullivan 4-Shelf Bookcase in Odessa Pine,1336.829,8,3,6,1
+434,CA-2017-127369,2017-06-06,0,DB-13060,Dave Brooks,0,United States,Lowell,Massachusetts,1852.0,1,OFF-ST-10003306,1,14,Letter Size Cart,714.3,6,2,1,1
+437,CA-2017-147375,2017-12-06,2,PO-19180,Philisse Overcash,2,United States,Chicago,Illinois,60623.0,0,TEC-MA-10002937,2,11,"Canon Color ImageCLASS MF8580Cdw Wireless Laser All-In-One Printer, Copier, Scanner",1007.979,12,4,2,1
+474,CA-2015-144666,2015-09-11,2,JP-15520,Jeremy Pistek,0,United States,San Francisco,California,94110.0,3,TEC-PH-10002680,2,13,Samsung Galaxy Note 3,703.968,9,3,4,1
+486,CA-2018-140963,2018-10-06,0,MT-18070,Michelle Tran,2,United States,Los Angeles,California,90045.0,3,FUR-BO-10001337,0,4,O'Sullivan Living Dimensions 2-Shelf Bookcases,514.165,10,4,5,1
+530,US-2016-138303,2016-03-09,3,MG-18145,Mike Gockenbach,0,United States,Philadelphia,Pennsylvania,19134.0,1,OFF-SU-10002881,1,15,Martin Yale Chadless Opener Electric Letter Opener,666.248,3,1,2,1
+558,CA-2017-113243,2017-10-06,3,OT-18730,Olvera Toch,0,United States,Los Angeles,California,90045.0,3,FUR-TA-10004256,0,16,Bretford “Just In Time” Height-Adjustable Multi-Task Work Tables,1335.68,10,4,4,1
+596,CA-2015-131450,2015-08-08,3,LR-16915,Lena Radford,0,United States,San Diego,California,92024.0,3,TEC-CO-10004115,2,6,Sharp AL-1530CS Digital Copier,1199.976,8,3,5,1
+614,CA-2017-121223,2017-11-09,2,GD-14590,Giulietta Dortch,1,United States,Philadelphia,Pennsylvania,19143.0,1,TEC-PH-10004667,2,13,Cisco 8x8 Inc. 6753i IP Business Phone System,728.946,11,4,3,1
+684,US-2018-168116,2018-04-11,1,GT-14635,Grant Thornton,1,United States,Burlington,North Carolina,27217.0,2,TEC-MA-10004125,2,11,Cubify CubeX 3D Printer Triple Head Print,7999.98,4,2,2,1
+686,CA-2015-157784,2015-05-07,0,MC-17845,Michael Chen,0,United States,Jackson,Mississippi,39212.0,2,TEC-AC-10003911,2,0,NETGEAR AC1750 Dual Band Gigabit Smart WiFi Router,479.97,5,2,3,1
+709,CA-2015-112158,2015-02-12,0,DP-13165,David Philippe,0,United States,New York City,New York,10035.0,1,FUR-BO-10003272,0,4,O'Sullivan Living Dimensions 5-Shelf Bookcases,883.92,2,1,3,1
+731,US-2017-150861,2017-03-12,0,EG-13900,Emily Grady,0,United States,Oceanside,New York,11572.0,1,FUR-CH-10002965,0,5,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",542.646,3,1,6,1
+754,CA-2017-110499,2017-07-04,0,YC-21895,Yoseph Carroll,1,United States,San Francisco,California,94110.0,3,TEC-CO-10002095,2,6,Hewlett Packard 610 Color Digital Copier / Printer,1199.976,7,3,1,1
+807,CA-2015-134313,2015-01-11,3,RA-19915,Russell Applegate,0,United States,Denver,Colorado,80219.0,3,TEC-PH-10001795,2,13,ClearOne CHATAttach 160 - speaker phone,1983.968,1,1,6,1
+870,CA-2017-158099,2017-03-09,0,PK-18910,Paul Knutson,2,United States,Philadelphia,Pennsylvania,19143.0,1,OFF-BI-10000545,1,3,GBC Ibimaster 500 Manual ProClick Binding System,1141.47,3,1,3,1
+910,CA-2018-137596,2018-02-09,3,BE-11335,Bill Eplett,2,United States,Jackson,Michigan,49201.0,0,TEC-PH-10001494,2,13,Polycom CX600 IP Phone VoIP phone,1199.8,2,1,4,1
+911,CA-2018-137596,2018-02-09,3,BE-11335,Bill Eplett,2,United States,Jackson,Michigan,49201.0,0,TEC-AC-10004666,2,0,Maxell iVDR EX 500GB Cartridge,1928.78,2,1,4,1
+970,CA-2018-135279,2018-09-04,0,BS-11800,Bryan Spruell,2,United States,New York City,New York,10011.0,1,OFF-ST-10001097,1,14,Office Impressions Heavy Duty Welded Shelving & Multimedia Storage Drawers,501.81,9,3,1,1
+978,CA-2018-159366,2018-07-01,0,BW-11110,Bart Watters,1,United States,Detroit,Michigan,48205.0,0,TEC-MA-10000822,2,11,Lexmark MX611dhe Monochrome Laser Printer,3059.982,7,3,6,1
+981,CA-2017-144939,2017-03-10,3,EB-13870,Emily Burns,0,United States,New York City,New York,10035.0,1,FUR-CH-10003199,0,5,Office Star - Contemporary Task Swivel Chair,599.292,3,1,4,1
+983,CA-2015-163419,2015-11-11,2,TZ-21580,Tracy Zic,0,United States,Louisville,Colorado,80027.0,3,TEC-PH-10000560,2,13,Samsung Galaxy S III - 16GB - pebble blue (T-Mobile),559.984,11,4,2,1
+984,CA-2015-163419,2015-11-11,2,TZ-21580,Tracy Zic,0,United States,Louisville,Colorado,80027.0,3,FUR-CH-10000665,0,5,"Global Airflow Leather Mesh Back Chair, Black",603.92,11,4,2,1
+1020,CA-2016-108665,2016-06-07,3,KM-16225,Kalyca Meade,1,United States,New York City,New York,10011.0,1,OFF-ST-10001526,1,14,Iceberg Mobile Mega Data/Printer Cart,601.65,6,2,1,1
+1031,CA-2015-163552,2015-11-07,3,LA-16780,Laura Armstrong,1,United States,Hackensack,New Jersey,7601.0,1,FUR-CH-10003379,0,5,Global Commerce Series High-Back Swivel/Tilt Chairs,854.94,11,4,5,1
+1043,CA-2017-102981,2017-06-09,2,MO-17500,Mary O'Rourke,0,United States,New York City,New York,10035.0,1,FUR-BO-10001811,0,4,"Atlantic Metals Mobile 5-Shelf Bookcases, Custom Colors",722.352,6,2,4,1
+1047,CA-2017-169103,2017-08-03,3,ZC-21910,Zuschuss Carroll,0,United States,Miami,Florida,33142.0,2,TEC-PH-10001530,2,13,Cisco Unified IP Phone 7945G VoIP phone,1363.96,8,3,3,1
+1083,US-2017-143819,2017-01-03,3,KD-16270,Karen Daniels,0,United States,Yonkers,New York,10701.0,1,FUR-TA-10001095,0,16,Chromcraft Round Conference Tables,836.592,1,1,1,1
+1086,US-2017-143819,2017-01-03,3,KD-16270,Karen Daniels,0,United States,Yonkers,New York,10701.0,1,TEC-MA-10003979,2,11,Ativa V4110MDD Micro-Cut Shredder,4899.93,1,1,1,1
+1119,CA-2016-142755,2016-04-09,3,CS-12355,Christine Sundaresam,0,United States,Roswell,Georgia,30076.0,2,TEC-AC-10002049,2,0,Logitech G19 Programmable Gaming Keyboard,619.95,4,2,5,1
+1147,CA-2016-112452,2016-04-04,1,NC-18340,Nat Carroll,0,United States,Lansing,Michigan,48911.0,0,OFF-AP-10003849,1,1,Hoover Shoulder Vac Commercial Portable Vacuum,644.076,4,2,0,1
+1151,CA-2016-112452,2016-04-04,1,NC-18340,Nat Carroll,0,United States,Lansing,Michigan,48911.0,0,TEC-CO-10004202,2,6,Brother DCP1000 Digital 3 in 1 Multifunction Machine,599.98,4,2,0,1
+1200,CA-2017-130946,2017-08-04,3,ZC-21910,Zuschuss Carroll,0,United States,Houston,Texas,77041.0,0,OFF-BI-10004995,1,3,GBC DocuBind P400 Electric Binding System,1088.792,8,3,4,1
+1220,US-2018-118087,2018-09-09,3,SP-20620,Stefania Perrino,1,United States,Philadelphia,Pennsylvania,19134.0,1,TEC-PH-10002200,2,13,Samsung Galaxy Note 2,1931.958,9,3,6,1
+1246,CA-2015-168494,2015-12-12,2,NP-18700,Nora Preis,0,United States,Fresno,California,93727.0,3,FUR-TA-10004619,0,16,Hon Non-Folding Utility Tables,764.688,12,4,5,1
+1247,CA-2015-168494,2015-12-12,2,NP-18700,Nora Preis,0,United States,Fresno,California,93727.0,3,FUR-TA-10003473,0,16,Bretford Rectangular Conference Table Tops,3610.848,12,4,5,1
+1253,CA-2016-154956,2016-04-07,3,IM-15070,Irene Maddox,0,United States,Milwaukee,Wisconsin,53209.0,0,TEC-PH-10004165,2,13,Mitel MiVoice 5330e IP Phone,1099.96,4,2,3,1
+1319,CA-2015-160773,2015-01-07,3,LW-16825,Laurel Workman,1,United States,Deltona,Florida,32725.0,2,TEC-PH-10004586,2,13,Wilson SignalBoost 841262 DB PRO Amplifier Kit,575.92,1,1,2,1
+1341,CA-2018-113481,2018-02-01,0,AS-10045,Aaron Smayling,1,United States,Jacksonville,North Carolina,28540.0,2,TEC-MA-10002178,2,11,Cisco CP-7937G Unified IP Conference Station Phone,695.7,2,1,3,1
+1368,US-2018-155425,2018-10-11,0,AB-10600,Ann Blume,1,United States,Tucson,Arizona,85705.0,3,FUR-CH-10003312,0,5,Hon 2090 “Pillow Soft” Series Mid Back Swivel/Tilt Chairs,899.136,10,4,3,1
+1376,CA-2015-126361,2015-04-08,2,VD-21670,Valerie Dominguez,0,United States,Pleasant Grove,Utah,84062.0,3,OFF-AP-10003590,1,1,Hoover WindTunnel Plus Canister Vacuum,1089.75,4,2,2,1
+1390,US-2017-108504,2017-05-02,1,PP-18955,Paul Prost,2,United States,Smyrna,Georgia,30080.0,2,TEC-PH-10003645,2,13,Aastra 57i VoIP phone,484.83,5,2,1,1
+1395,US-2018-117247,2018-09-10,3,CK-12760,Cyma Kinney,1,United States,Aurora,Illinois,60505.0,0,FUR-TA-10002958,0,16,"Bevis Oval Conference Table, Walnut",652.45,9,3,0,1
+1469,CA-2018-139199,2018-09-12,3,DK-12835,Damala Kotsonis,1,United States,Detroit,Michigan,48234.0,0,FUR-CH-10000847,0,5,Global Executive Mid-Back Manager's Chair,872.94,9,3,2,1
+1487,CA-2016-140410,2016-03-11,3,CM-12655,Corinna Mitchell,2,United States,Los Angeles,California,90008.0,3,TEC-PH-10003580,2,13,Cisco IP Phone 7961G-GE VoIP phone,1212.848,3,1,4,1
+1502,CA-2018-130386,2018-12-11,3,NG-18430,Nathan Gelder,0,United States,Austin,Texas,78745.0,0,OFF-ST-10003716,1,14,Tennsco Double-Tier Lockers,540.048,12,4,1,1
+1506,CA-2016-153388,2016-01-08,3,PC-19000,Pauline Chand,2,United States,Los Angeles,California,90004.0,3,FUR-TA-10003715,0,16,Hon 2111 Invitation Series Corner Table,1004.976,1,1,4,1
+1517,CA-2018-148446,2018-10-12,2,MC-17845,Michael Chen,0,United States,North Las Vegas,Nevada,89031.0,3,FUR-TA-10004256,0,16,Bretford “Just In Time” Height-Adjustable Multi-Task Work Tables,1669.6,10,4,4,1
+1550,CA-2015-134278,2015-06-07,0,EP-13915,Emily Phan,0,United States,New York City,New York,10011.0,1,TEC-CO-10001046,2,6,Canon Imageclass D680 Copier / Fax,559.992,6,2,6,1
+1583,CA-2016-131338,2016-09-08,0,NP-18325,Naresj Patel,0,United States,New York City,New York,10024.0,1,OFF-BI-10000545,1,3,GBC Ibimaster 500 Manual ProClick Binding System,1217.568,9,3,3,1
+1586,CA-2016-131338,2016-09-08,0,NP-18325,Naresj Patel,0,United States,New York City,New York,10024.0,1,TEC-PH-10000984,2,13,Panasonic KX-TG9471B,979.95,9,3,3,1
+1622,CA-2018-108560,2018-08-07,3,JC-15385,Jenna Caffey,0,United States,Kent,Washington,98031.0,3,OFF-LA-10003930,1,10,"Dot Matrix Printer Tape Reel Labels, White, 5000/Box",786.48,8,3,1,1
+1631,CA-2017-106530,2017-08-05,1,CL-12565,Clay Ludtke,0,United States,Cleveland,Ohio,44105.0,1,OFF-ST-10002011,1,14,Smead Adjustable Mobile File Trolley with Lockable Top,1006.056,8,3,5,1
+1670,US-2016-157154,2016-10-01,3,MM-17920,Michael Moore,0,United States,New York City,New York,10011.0,1,FUR-TA-10001889,0,16,Bush Advantage Collection Racetrack Conference Table,1018.104,10,4,5,1
+1700,CA-2015-135657,2015-03-06,2,SC-20725,Steven Cartwright,0,United States,Seattle,Washington,98115.0,3,FUR-TA-10004086,0,16,KI Adjustable-Height Table,515.88,3,1,4,1
+1714,US-2018-124968,2018-08-09,2,MM-18055,Michelle Moray,0,United States,Chicago,Illinois,60610.0,0,FUR-TA-10004289,0,16,BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables,765.625,8,3,3,1
+1753,CA-2018-116715,2018-02-12,0,VW-21775,Victoria Wilson,1,United States,San Francisco,California,94122.0,3,OFF-ST-10004340,1,14,"Fellowes Mobile File Cart, Black",559.62,2,1,0,1
+1757,CA-2016-135622,2016-08-12,2,TT-21460,Tonja Turnell,2,United States,Fort Worth,Texas,76106.0,0,TEC-PH-10001817,2,13,Wilson Electronics DB Pro Signal Booster,1718.4,8,3,4,1
+1792,CA-2015-120474,2015-01-12,0,RP-19390,Resi Pölking,0,United States,Madison,Wisconsin,53711.0,0,FUR-CH-10001854,0,5,Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat,2807.84,1,1,0,1
+1812,CA-2015-132612,2015-09-06,2,FO-14305,Frank Olsen,0,United States,Harrisonburg,Virginia,22801.0,2,FUR-TA-10004534,0,16,Bevis 44 x 96 Conference Tables,1441.3,9,3,6,1
+1828,CA-2017-109344,2017-08-02,2,CH-12070,Cathy Hwang,2,United States,Raleigh,North Carolina,27604.0,2,TEC-PH-10002624,2,13,Samsung Galaxy S4 Mini,1127.976,8,3,2,1
+1834,CA-2018-162691,2018-01-08,3,AS-10045,Aaron Smayling,1,United States,Austin,Texas,78745.0,0,TEC-MA-10000488,2,11,Bady BDG101FRU Card Printer,1439.982,1,1,0,1
+1883,CA-2016-109512,2016-05-03,1,LF-17185,Luke Foster,0,United States,New York City,New York,10011.0,1,OFF-ST-10000689,1,14,"Fellowes Strictly Business Drawer File, Letter/Legal Size",563.4,5,2,1,1
+1897,CA-2018-141789,2018-03-10,0,AC-10450,Amy Cox,0,United States,Minneapolis,Minnesota,55407.0,0,OFF-BI-10001359,1,3,GBC DocuBind TL300 Electric Binding System,1793.98,3,1,5,1
+1913,CA-2018-121503,2018-03-07,2,FH-14275,Frank Hawley,1,United States,Houston,Texas,77041.0,0,TEC-MA-10003674,2,11,Hewlett-Packard Deskjet 5550 Printer,597.132,3,1,2,1
+1923,CA-2017-156685,2017-08-07,2,SC-20230,Scot Coram,1,United States,Arlington,Texas,76017.0,0,TEC-PH-10004345,2,13,Cisco SPA 502G IP Phone,863.64,8,3,0,1
+1941,CA-2017-112109,2017-08-07,3,JE-15715,Joe Elijah,0,United States,Broomfield,Colorado,80020.0,3,FUR-CH-10004287,0,5,SAFCO Arco Folding Chair,662.88,8,3,0,1
+1954,CA-2018-157987,2018-02-09,3,AC-10615,Ann Chong,1,United States,New York City,New York,10009.0,1,FUR-CH-10003379,0,5,Global Commerce Series High-Back Swivel/Tilt Chairs,1282.41,2,1,4,1
+1983,CA-2015-122749,2015-03-12,3,NG-18430,Nathan Gelder,0,United States,Oklahoma City,Oklahoma,73120.0,0,TEC-PH-10003811,2,13,Jabra Supreme Plus Driver Edition Headset,479.96,3,1,3,1
+1989,CA-2016-127509,2016-09-11,3,AS-10090,Adam Shillingsburg,0,United States,Springfield,Missouri,65807.0,0,FUR-TA-10002855,0,16,Bevis Round Conference Table Top & Single Column Base,1024.38,9,3,6,1
+2075,CA-2018-122504,2018-07-11,2,DB-13270,Deborah Brumfield,2,United States,Brentwood,California,94513.0,3,TEC-PH-10002468,2,13,"Plantronics CS 50-USB - headset - Convertible, Monaural",761.544,7,3,2,1
+2101,US-2015-140116,2015-10-03,3,KT-16480,Kean Thornton,0,United States,Denver,Colorado,80219.0,3,OFF-ST-10000078,1,14,Tennsco 6- and 18-Compartment Lockers,636.408,10,4,5,1
+2142,CA-2015-159520,2015-06-06,3,GT-14635,Grant Thornton,1,United States,Long Beach,New York,11561.0,1,FUR-TA-10003238,0,16,"Chromcraft Bull-Nose Wood 48"" x 96"" Rectangular Conference Tables",991.764,6,2,5,1
+2183,CA-2017-128818,2017-07-05,3,CJ-12010,Caroline Jumper,0,United States,New York City,New York,10009.0,1,TEC-MA-10000488,2,11,Bady BDG101FRU Card Printer,3999.95,7,3,2,1
+2190,CA-2018-143063,2018-10-08,3,IL-15100,Ivan Liston,0,United States,Columbus,Indiana,47201.0,0,TEC-PH-10003645,2,13,Aastra 57i VoIP phone,1454.49,10,4,0,1
+2202,US-2015-165659,2015-01-06,3,LT-17110,Liz Thompson,0,United States,Little Rock,Arkansas,72209.0,2,TEC-PH-10002563,2,13,Adtran 1202752G1,881.93,1,1,1,1
+2222,CA-2016-131884,2016-06-12,1,DK-13375,Dennis Kane,0,United States,Marion,Ohio,43302.0,1,TEC-PH-10001578,2,13,Polycom SoundStation2 EX Conference phone,485.94,6,2,6,1
+2274,CA-2016-142944,2016-06-03,3,JL-15850,John Lucas,0,United States,San Francisco,California,94122.0,3,TEC-CO-10003763,2,6,Canon PC1060 Personal Laser Copier,1119.984,6,2,4,1
+2290,CA-2018-115154,2018-08-01,0,RS-19420,Ricardo Sperren,1,United States,Seattle,Washington,98115.0,3,FUR-TA-10001950,0,16,Balt Solid Wood Round Tables,892.98,8,3,2,1
+2299,CA-2016-113145,2016-01-11,3,VD-21670,Valerie Dominguez,0,United States,New York City,New York,10011.0,1,TEC-AC-10001838,2,0,Razer Tiamat Over Ear 7.1 Surround Sound PC Gaming Headset,1399.93,1,1,0,1
+2300,CA-2016-113145,2016-01-11,3,VD-21670,Valerie Dominguez,0,United States,New York City,New York,10011.0,1,TEC-PH-10002597,2,13,Xblue XB-1670-86 X16 Small Office Telephone - Titanium,503.96,1,1,0,1
+2392,US-2016-127040,2016-06-12,3,SG-20605,Speros Goranitis,0,United States,New York City,New York,10009.0,1,TEC-AC-10002637,2,0,Logitech VX Revolution Cordless Laser Mouse for Notebooks (Black),1619.91,6,2,6,1
+2400,CA-2018-147361,2018-09-09,3,SB-20290,Sean Braxton,1,United States,Florence,South Carolina,29501.0,2,OFF-ST-10001809,1,14,Fellowes Officeware Wire Shelving,628.81,9,3,6,1
+2405,CA-2018-108574,2018-07-10,3,MG-18145,Mike Gockenbach,0,United States,Los Angeles,California,90045.0,3,TEC-AC-10002049,2,0,Logitech G19 Programmable Gaming Keyboard,1115.91,7,3,1,1
+2414,CA-2015-151295,2015-12-11,3,JA-15970,Joseph Airdo,0,United States,Los Angeles,California,90045.0,3,FUR-TA-10002356,0,16,Bevis Boat-Shaped Conference Table,629.064,12,4,4,1
+2417,CA-2018-168655,2018-12-10,3,ML-18040,Michelle Lonsdale,1,United States,Albuquerque,New Mexico,87105.0,3,TEC-AC-10002842,2,0,WD My Passport Ultra 2TB Portable External Hard Drive,595.0,12,4,0,1
+2437,CA-2018-140053,2018-03-07,3,CA-12265,Christina Anderson,0,United States,Farmington,New Mexico,87401.0,3,FUR-FU-10003708,0,9,"Tenex Traditional Chairmats for Medium Pile Carpet, Standard Lip, 36"" x 48""",545.85,3,1,2,1
+2468,CA-2018-128755,2018-04-05,3,MK-18160,Mike Kennedy,0,United States,Newport News,Virginia,23602.0,2,OFF-ST-10003306,1,14,Letter Size Cart,571.44,4,2,3,1
+2477,CA-2017-114972,2017-03-11,0,PF-19225,Phillip Flathmann,0,United States,Los Angeles,California,90032.0,3,OFF-AP-10003057,1,1,Honeywell Enviracaire Portable HEPA Air Cleaner for 16' x 20' Room,1101.48,3,1,5,1
+2478,CA-2018-102750,2018-04-09,2,GM-14695,Greg Maxwell,1,United States,Los Angeles,California,90036.0,3,FUR-TA-10000198,0,16,Chromcraft Bull-Nose Wood Oval Conference Tables & Bases,1322.352,4,2,0,1
+2490,CA-2016-141040,2016-09-10,2,TB-21250,Tim Brockman,0,United States,New York City,New York,10024.0,1,TEC-PH-10001835,2,13,Jawbone JAMBOX Wireless Bluetooth Speaker,631.96,9,3,5,1
+2495,CA-2017-146206,2017-10-09,2,KT-16480,Kean Thornton,0,United States,Houston,Texas,77095.0,0,TEC-PH-10000895,2,13,Polycom VVX 310 VoIP phone,719.96,10,4,0,1
+2510,CA-2018-163902,2018-02-03,3,MY-17380,Maribeth Yedwab,1,United States,Los Angeles,California,90045.0,3,TEC-AC-10000580,2,0,Logitech G13 Programmable Gameboard with LCD Display,479.94,2,1,5,1
+2568,CA-2018-123967,2018-01-11,2,SF-20200,Sarah Foster,0,United States,Bellingham,Washington,98226.0,3,FUR-TA-10003954,0,16,Hon 94000 Series Round Tables,2665.62,1,1,3,1
+2569,CA-2018-148929,2018-07-09,3,SP-20620,Stefania Perrino,1,United States,New York City,New York,10011.0,1,OFF-ST-10003282,1,14,"Advantus 10-Drawer Portable Organizer, Chrome Metal Frame, Smoke Drawers",478.08,7,3,0,1
+2573,CA-2017-155845,2017-12-08,2,CM-12235,Chris McAfee,0,United States,Carrollton,Texas,75007.0,0,TEC-AC-10004145,2,0,Logitech diNovo Edge Keyboard,1399.944,12,4,4,1
+2574,CA-2018-145128,2018-09-07,3,SM-20320,Sean Miller,2,United States,Lafayette,Indiana,47905.0,0,FUR-FU-10000293,0,9,Eldon Antistatic Chair Mats for Low to Medium Pile Carpets,526.45,9,3,4,1
+2592,US-2017-115455,2017-08-09,3,SE-20110,Sanjit Engle,0,United States,Wheeling,Illinois,60090.0,0,FUR-TA-10003569,0,16,Bretford CR8500 Series Meeting Room Furniture,601.47,8,3,2,1
+2603,CA-2017-165848,2017-04-06,1,EN-13780,Edward Nazzal,0,United States,New York City,New York,10035.0,1,TEC-MA-10003356,2,11,Panasonic KX MC6040 Color Laser Multifunction Printer,1349.85,4,2,3,1
+2641,CA-2018-108441,2018-12-06,3,SB-20170,Sarah Bern,0,United States,New York City,New York,10035.0,1,FUR-CH-10000595,0,5,Safco Contoured Stacking Chairs,858.24,12,4,3,1
+2649,CA-2015-131002,2015-07-09,2,TB-21400,Tom Boeckenhauer,0,United States,Tulsa,Oklahoma,74133.0,0,FUR-FU-10004665,0,9,"3M Polarizing Task Lamp with Clamp Arm, Light Gray",821.88,7,3,3,1
+2672,CA-2015-126403,2015-09-09,2,RR-19525,Rick Reed,1,United States,Lowell,Massachusetts,1852.0,1,FUR-CH-10003761,0,5,Global Italian Leather Office Chair,785.88,9,3,2,1
+2674,CA-2015-126403,2015-09-09,2,RR-19525,Rick Reed,1,United States,Lowell,Massachusetts,1852.0,1,OFF-ST-10000078,1,14,Tennsco 6- and 18-Compartment Lockers,1325.85,9,3,2,1
+2747,CA-2015-155887,2015-12-05,3,KT-16480,Kean Thornton,0,United States,Franklin,Massachusetts,2038.0,1,FUR-TA-10002228,0,16,"Bevis Traditional Conference Table Top, Plinth Base",700.056,12,4,5,1
+2750,US-2015-141257,2015-08-06,3,CS-11950,Carlos Soltero,0,United States,Seattle,Washington,98115.0,3,FUR-CH-10002758,0,5,"Hon Deluxe Fabric Upholstered Stacking Chairs, Squared Back",585.552,8,3,3,1
+2760,CA-2017-146171,2017-11-03,3,JP-16135,Julie Prescott,2,United States,Columbus,Georgia,31907.0,2,OFF-ST-10001526,1,14,Iceberg Mobile Mega Data/Printer Cart,481.32,11,4,4,1
+2794,CA-2015-154599,2015-12-04,3,KN-16450,Kean Nguyen,1,United States,Redondo Beach,California,90278.0,3,TEC-PH-10001557,2,13,Pyle PMP37LED,1075.088,12,4,4,1
+2819,CA-2016-104626,2016-01-09,3,DR-12940,Daniel Raglin,2,United States,Franklin,Massachusetts,2038.0,1,OFF-ST-10003208,1,14,Adjustable Depth Letter/Legal Cart,1088.76,1,1,5,1
+2839,CA-2017-147368,2017-09-06,0,TC-21295,Toby Carlisle,0,United States,Tallahassee,Florida,32303.0,2,TEC-MA-10002178,2,11,Cisco CP-7937G Unified IP Conference Station Phone,695.7,9,3,2,1
+2847,CA-2018-152093,2018-10-09,3,SN-20560,Skye Norling,2,United States,Chicago,Illinois,60653.0,0,OFF-BI-10003527,1,3,Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind,762.594,10,4,1,1
+2849,CA-2018-157854,2018-08-04,3,DM-13345,Denise Monton,1,United States,Roswell,Georgia,30076.0,2,OFF-BI-10001359,1,3,GBC DocuBind TL300 Electric Binding System,2690.97,8,3,5,1
+2898,US-2017-164630,2017-04-01,3,EB-13975,Erica Bern,1,United States,Charlotte,North Carolina,28205.0,2,TEC-CO-10000971,2,6,Hewlett Packard 310 Color Digital Copier,959.968,4,2,5,1
+2900,CA-2016-166464,2016-12-09,3,PG-18895,Paul Gonzalez,0,United States,New York City,New York,10035.0,1,TEC-CO-10000971,2,6,Hewlett Packard 310 Color Digital Copier,479.984,12,4,4,1
+2955,CA-2018-134915,2018-12-11,1,EM-14140,Eugene Moren,2,United States,Glendale,Arizona,85301.0,3,TEC-PH-10001459,2,13,Samsung Galaxy Mega 6.3,671.984,12,4,1,1
+2969,CA-2018-167941,2018-06-11,2,JF-15565,Jill Fjeld,0,United States,Fayetteville,North Carolina,28314.0,2,OFF-AP-10002118,1,1,"1.7 Cubic Foot Compact ""Cube"" Office Refrigerators",499.584,6,2,0,1
+2994,CA-2018-147291,2018-11-03,3,MJ-17740,Max Jones,0,United States,Detroit,Michigan,48227.0,0,OFF-BI-10003091,1,3,GBC DocuBind TL200 Manual Binding Machine,895.92,11,4,5,1
+3044,CA-2018-149559,2018-11-09,1,KF-16285,Karen Ferguson,2,United States,Long Beach,California,90805.0,3,FUR-CH-10002320,0,5,Hon Pagoda Stacking Chairs,2054.272,11,4,4,1
+3054,CA-2017-128517,2017-09-04,2,SW-20350,Sean Wendt,2,United States,Detroit,Michigan,48227.0,0,TEC-PH-10002555,2,13,Nortel Meridian M5316 Digital phone,517.9,9,3,0,1
+3092,CA-2017-112123,2017-03-03,3,BH-11710,Brosina Hoffman,0,United States,Newark,Delaware,19711.0,1,TEC-PH-10001557,2,13,Pyle PMP37LED,479.95,3,1,4,1
+3119,CA-2016-121720,2016-11-06,0,JE-15610,Jim Epp,1,United States,Lakeland,Florida,33801.0,2,FUR-CH-10003312,0,5,Hon 2090 “Pillow Soft” Series Mid Back Swivel/Tilt Chairs,1123.92,11,4,6,1
+3125,CA-2016-121720,2016-11-06,0,JE-15610,Jim Epp,1,United States,Lakeland,Florida,33801.0,2,OFF-ST-10001780,1,14,Tennsco 16-Compartment Lockers with Coat Rack,1036.624,11,4,6,1
+3126,CA-2016-121720,2016-11-06,0,JE-15610,Jim Epp,1,United States,Lakeland,Florida,33801.0,2,OFF-ST-10003816,1,14,Fellowes High-Stak Drawer Files,563.808,11,4,6,1
+3146,CA-2018-131828,2018-11-02,2,CS-11845,Cari Sayre,1,United States,Seattle,Washington,98105.0,3,FUR-CH-10004495,0,5,"Global Leather and Oak Executive Chair, Black",963.136,11,4,4,1
+3183,CA-2018-152912,2018-09-11,2,BM-11650,Brian Moss,1,United States,Columbia,Maryland,21044.0,1,TEC-AC-10004666,2,0,Maxell iVDR EX 500GB Cartridge,826.62,9,3,1,1
+3184,CA-2018-152912,2018-09-11,2,BM-11650,Brian Moss,1,United States,Columbia,Maryland,21044.0,1,OFF-ST-10003208,1,14,Adjustable Depth Letter/Legal Cart,1633.14,9,3,1,1
+3185,CA-2018-152912,2018-09-11,2,BM-11650,Brian Moss,1,United States,Columbia,Maryland,21044.0,1,OFF-ST-10003208,1,14,Adjustable Depth Letter/Legal Cart,544.38,9,3,1,1
+3203,CA-2015-158372,2015-10-11,3,RD-19900,Ruben Dartt,0,United States,San Diego,California,92037.0,3,TEC-PH-10002103,2,13,Jabra SPEAK 410,601.536,10,4,6,1
+3218,CA-2018-104640,2018-10-11,3,FH-14275,Frank Hawley,1,United States,New York City,New York,10024.0,1,OFF-BI-10003925,1,3,Fellowes PB300 Plastic Comb Binding Machine,931.176,10,4,3,1
+3274,CA-2018-133865,2018-08-05,3,PS-19045,Penelope Sewall,2,United States,Los Angeles,California,90032.0,3,TEC-CO-10001046,2,6,Canon Imageclass D680 Copier / Fax,3359.952,8,3,6,1
+3281,CA-2015-102988,2015-05-04,2,GM-14695,Greg Maxwell,1,United States,Alexandria,Virginia,22304.0,2,OFF-SU-10002881,1,15,Martin Yale Chadless Opener Electric Letter Opener,4164.05,5,2,0,1
+3296,CA-2018-113418,2018-01-10,0,CM-12655,Corinna Mitchell,2,United States,New York City,New York,10035.0,1,TEC-MA-10002428,2,11,Fellowes Powershred HS-440 4-Sheet High Security Shredder,1704.89,1,1,2,1
+3325,CA-2015-165309,2015-11-11,3,KD-16270,Karen Daniels,0,United States,Houston,Texas,77095.0,0,OFF-BI-10001359,1,3,GBC DocuBind TL300 Electric Binding System,896.99,11,4,2,1
+3385,CA-2016-130659,2016-04-12,2,MS-17365,Maribeth Schnelling,0,United States,New York City,New York,10035.0,1,TEC-PH-10004586,2,13,Wilson SignalBoost 841262 DB PRO Amplifier Kit,1799.75,4,2,1,1
+3386,CA-2018-148404,2018-07-10,3,Dp-13240,Dean percer,2,United States,Charlotte,North Carolina,28205.0,2,OFF-ST-10003208,1,14,Adjustable Depth Letter/Legal Cart,580.672,7,3,1,1
+3392,CA-2015-166471,2015-09-08,3,MG-17650,Matthew Grinstein,2,United States,Seattle,Washington,98103.0,3,TEC-PH-10001530,2,13,Cisco Unified IP Phone 7945G VoIP phone,1091.168,9,3,1,1
+3462,CA-2018-114258,2018-05-11,2,EM-13825,Elizabeth Moffitt,1,United States,Dallas,Texas,75081.0,0,TEC-PH-10003012,2,13,Nortel Meridian M3904 Professional Digital phone,492.768,5,2,4,1
+3481,CA-2017-131289,2017-08-12,3,SP-20620,Stefania Perrino,1,United States,San Francisco,California,94110.0,3,FUR-TA-10003954,0,16,Hon 94000 Series Round Tables,1421.664,8,3,5,1
+3497,CA-2017-107328,2017-08-08,3,CA-12055,Cathy Armstrong,2,United States,Los Angeles,California,90036.0,3,FUR-TA-10001932,0,16,"Chromcraft 48"" x 96"" Racetrack Double Pedestal Table",513.024,8,3,1,1
+3498,CA-2017-107328,2017-08-08,3,CA-12055,Cathy Armstrong,2,United States,Los Angeles,California,90036.0,3,OFF-AP-10004487,1,1,Kensington 4 Outlet MasterPiece Compact Power Control Center,487.92,8,3,1,1
+3513,CA-2018-140326,2018-04-09,0,HW-14935,Helen Wasserman,1,United States,Chicago,Illinois,60653.0,0,FUR-BO-10000112,0,4,"Bush Birmingham Collection Bookcase, Dark Cherry",825.174,4,2,0,1
+3519,US-2017-113649,2017-09-08,0,HA-14920,Helen Andreada,0,United States,Fayetteville,North Carolina,28314.0,2,OFF-AP-10002518,1,1,Kensington 7 Outlet MasterPiece Power Center,569.536,9,3,4,1
+3526,CA-2018-148922,2018-10-12,2,SU-20665,Stephanie Ulpright,2,United States,Jackson,Mississippi,39212.0,2,TEC-AC-10001838,2,0,Razer Tiamat Over Ear 7.1 Surround Sound PC Gaming Headset,599.97,10,4,4,1
+3567,CA-2018-103877,2018-07-09,3,RD-19660,Robert Dilbeck,2,United States,Independence,Missouri,64055.0,0,OFF-BI-10003650,1,3,GBC DocuBind 300 Electric Binding Machine,1577.94,7,3,0,1
+3570,CA-2018-168109,2018-03-07,1,JK-15640,Jim Kriz,2,United States,Seattle,Washington,98105.0,3,TEC-MA-10001148,2,11,Okidata MB491 Multifunction Printer,2395.2,3,1,2,1
+3571,CA-2018-168109,2018-03-07,1,JK-15640,Jim Kriz,2,United States,Seattle,Washington,98105.0,3,TEC-AC-10002049,2,0,Plantronics Savi W720 Multi-Device Wireless Headset System,1687.8,3,1,2,1
+3584,CA-2016-121650,2016-10-12,3,KD-16495,Keith Dawkins,1,United States,Jackson,Michigan,49201.0,0,FUR-TA-10003569,0,16,Bretford CR8500 Series Meeting Room Furniture,801.96,10,4,2,1
+3618,CA-2018-141929,2018-04-09,3,RA-19285,Ralph Arnett,0,United States,Los Angeles,California,90004.0,3,OFF-BI-10004632,1,3,Ibico Hi-Tech Manual Binding System,487.984,4,2,0,1
+3629,CA-2015-169726,2015-09-08,3,JH-15985,Joseph Holt,0,United States,Seattle,Washington,98103.0,3,OFF-BI-10004600,1,3,Ibico Ibimaster 300 Manual Binding System,2060.744,9,3,1,1
+3633,CA-2018-132178,2018-03-05,2,DB-12970,Darren Budd,1,United States,Los Angeles,California,90004.0,3,OFF-ST-10000025,1,14,Fellowes Stor/Drawer Steel Plus Storage Drawers,763.44,3,1,0,1
+3716,CA-2015-135608,2015-08-12,2,JK-15625,Jim Karlsson,0,United States,Olympia,Washington,98502.0,3,FUR-CH-10002602,0,5,DMI Arturo Collection Mission-style Design Wood Chair,603.92,8,3,2,1
+3757,CA-2017-116799,2017-03-03,0,JG-15310,Jason Gross,1,United States,Odessa,Texas,79762.0,0,FUR-CH-10004983,0,5,Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms,563.43,3,1,4,1
+3778,CA-2016-107937,2016-03-05,3,JB-16045,Julia Barnett,2,United States,Chula Vista,California,91911.0,3,FUR-FU-10002298,0,9,"Rubbermaid ClusterMat Chairmats, Mat Size- 66"" x 60"", Lip 20"" x 11"" -90 Degree Angle",665.88,3,1,5,1
+3799,CA-2018-147760,2018-04-11,0,KL-16555,Kelly Lampkin,1,United States,Greensboro,North Carolina,27405.0,2,FUR-TA-10004575,0,16,Hon 5100 Series Wood Tables,523.764,4,2,2,1
+3800,CA-2018-147760,2018-04-11,0,KL-16555,Kelly Lampkin,1,United States,Greensboro,North Carolina,27405.0,2,TEC-PH-10002483,2,13,Motorola Moto X,1359.96,4,2,2,1
+3810,CA-2016-113628,2016-12-11,3,AH-10690,Anna Häberlin,1,United States,Plantation,Florida,33317.0,2,FUR-CH-10003298,0,5,"Office Star - Contemporary Task Swivel chair with Loop Arms, Charcoal",523.92,12,4,6,1
+3815,CA-2017-152471,2017-08-07,1,ZD-21925,Zuschuss Donatelli,0,United States,Jacksonville,Florida,32216.0,2,TEC-PH-10002824,2,13,Jabra SPEAK 410 Multidevice Speakerphone,823.96,8,3,0,1
+3828,CA-2018-141733,2018-07-05,3,RW-19540,Rick Wilson,1,United States,Detroit,Michigan,48234.0,0,FUR-CH-10004086,0,5,Hon 4070 Series Pagoda Armless Upholstered Stacking Chairs,1458.65,7,3,3,1
+3830,CA-2018-141733,2018-07-05,3,RW-19540,Rick Wilson,1,United States,Detroit,Michigan,48234.0,0,FUR-CH-10000595,0,5,Safco Contoured Stacking Chairs,476.8,7,3,3,1
+3905,CA-2016-167010,2016-05-04,3,VT-21700,Valerie Takahito,2,United States,Philadelphia,Pennsylvania,19143.0,1,OFF-ST-10003816,1,14,Fellowes High-Stak Drawer Files,563.808,5,2,2,1
+3907,CA-2016-167010,2016-05-04,3,VT-21700,Valerie Takahito,2,United States,Philadelphia,Pennsylvania,19143.0,1,FUR-FU-10001468,0,9,Tenex Antistatic Computer Chair Mats,547.136,5,2,2,1
+3940,US-2017-143448,2017-10-12,1,MH-17455,Mark Hamilton,0,United States,Greenwood,Indiana,46142.0,0,FUR-CH-10003379,0,5,Global Commerce Series High-Back Swivel/Tilt Chairs,1424.9,10,4,3,1
+3984,CA-2017-135265,2017-07-07,2,CC-12370,Christopher Conant,0,United States,Los Angeles,California,90045.0,3,TEC-CO-10003763,2,6,Canon PC1060 Personal Laser Copier,2799.96,7,3,4,1
+3987,CA-2018-112333,2018-08-04,3,KF-16285,Karen Ferguson,2,United States,Plainfield,New Jersey,7060.0,1,OFF-ST-10001780,1,14,Tennsco 16-Compartment Lockers with Coat Rack,2591.56,8,3,5,1
+3995,CA-2016-105627,2016-08-03,3,DK-12895,Dana Kaydos,0,United States,Kenosha,Wisconsin,53142.0,0,FUR-BO-10002916,0,4,"Rush Hierlooms Collection 1"" Thick Stackable Bookcases",512.94,8,3,2,1
+3996,CA-2016-105627,2016-08-03,3,DK-12895,Dana Kaydos,0,United States,Kenosha,Wisconsin,53142.0,0,FUR-CH-10002084,0,5,Hon Mobius Operator's Chair,860.93,8,3,2,1
+3997,CA-2016-105627,2016-08-03,3,DK-12895,Dana Kaydos,0,United States,Kenosha,Wisconsin,53142.0,0,TEC-PH-10003012,2,13,Nortel Meridian M3904 Professional Digital phone,769.95,8,3,2,1
+4003,CA-2017-145730,2017-03-03,3,CC-12220,Chris Cortes,0,United States,San Antonio,Texas,78207.0,0,FUR-TA-10004915,0,16,"Office Impressions End Table, 20-1/2""H x 24""W x 20""D",637.896,3,1,4,1
+4010,CA-2018-144463,2018-01-01,3,SC-20725,Steven Cartwright,0,United States,Los Angeles,California,90036.0,3,FUR-FU-10001215,0,9,"Howard Miller 11-1/2"" Diameter Brentwood Wall Clock",474.43,1,1,0,1
+4069,CA-2015-102673,2015-01-11,3,KH-16630,Ken Heidel,1,United States,Charlotte,North Carolina,28205.0,2,TEC-PH-10004434,2,13,Cisco IP Phone 7961G VoIP phone - Dark gray,978.84,1,1,6,1
+4073,CA-2016-156104,2016-06-12,2,NP-18685,Nora Pelletier,2,United States,Indianapolis,Indiana,46203.0,0,TEC-CO-10002095,2,6,Hewlett Packard 610 Color Digital Copier / Printer,999.98,6,2,6,1
+4137,CA-2018-105914,2018-02-10,3,PV-18985,Paul Van Hugh,2,United States,Los Angeles,California,90036.0,3,OFF-ST-10003716,1,14,Tennsco Double-Tier Lockers,1575.14,2,1,5,1
+4177,CA-2015-128846,2015-07-04,3,RS-19765,Roland Schwarz,1,United States,Columbia,South Carolina,29203.0,2,TEC-PH-10003273,2,13,AT&T TR1909W,629.95,7,3,5,1
+4201,CA-2016-143105,2016-10-12,1,MA-17560,Matt Abelman,2,United States,New York City,New York,10024.0,1,TEC-CO-10002095,2,6,Hewlett Packard 610 Color Digital Copier / Printer,799.984,10,4,2,1
+4218,CA-2018-149881,2018-01-04,0,NC-18535,Nick Crebassa,1,United States,San Francisco,California,94110.0,3,FUR-BO-10003894,0,4,"Safco Value Mate Steel Bookcase, Baked Enamel Finish on Steel, Black",482.664,1,1,3,1
+4219,CA-2018-149881,2018-01-04,0,NC-18535,Nick Crebassa,1,United States,San Francisco,California,94110.0,3,TEC-MA-10000418,2,11,Cubify CubeX 3D Printer Double Head Print,4799.984,1,1,3,1
+4250,CA-2017-157336,2017-01-12,2,SJ-20500,Shirley Jackson,0,United States,Fairfield,Connecticut,6824.0,1,FUR-CH-10004997,0,5,Hon Every-Day Series Multi-Task Chairs,751.92,1,1,3,1
+4265,US-2017-131611,2017-05-11,3,EP-13915,Emily Phan,0,United States,Houston,Texas,77036.0,0,FUR-TA-10002774,0,16,Laminate Occasional Tables,863.128,5,2,3,1
+4267,US-2017-131611,2017-05-11,3,EP-13915,Emily Phan,0,United States,Houston,Texas,77036.0,0,FUR-BO-10000780,0,4,O'Sullivan Plantations 2-Door Library in Landvery Oak,956.6648,5,2,3,1
+4292,CA-2018-102407,2018-09-12,2,AT-10435,Alyssa Tate,2,United States,Los Angeles,California,90004.0,3,FUR-TA-10003748,0,16,Bevis 36 x 72 Conference Tables,896.328,9,3,2,1
+4309,CA-2015-125829,2015-04-11,3,WB-21850,William Brown,0,United States,Los Angeles,California,90045.0,3,TEC-PH-10001079,2,13,Polycom SoundPoint Pro SE-225 Corded phone,666.344,4,2,5,1
+4310,CA-2015-125829,2015-04-11,3,WB-21850,William Brown,0,United States,Los Angeles,California,90045.0,3,FUR-TA-10002041,0,16,"Bevis Round Conference Table Top, X-Base",573.728,4,2,5,1
+4356,CA-2016-155600,2016-04-12,2,RO-19780,Rose O'Brian,0,United States,Clarksville,Tennessee,37042.0,2,OFF-BI-10000545,1,3,GBC Ibimaster 500 Manual ProClick Binding System,1598.058,4,2,1,1
+4360,CA-2018-162565,2018-11-12,1,RR-19315,Ralph Ritter,0,United States,Aurora,Illinois,60505.0,0,FUR-CH-10003973,0,5,GuestStacker Chair with Chrome Finish Legs,520.464,11,4,0,1
+4418,CA-2018-112900,2018-09-04,2,KL-16645,Ken Lonsdale,0,United States,Detroit,Michigan,48205.0,0,OFF-BI-10002867,1,3,GBC Recycled Regency Composition Covers,478.24,9,3,1,1
+4435,CA-2017-168893,2017-03-11,2,AP-10915,Arthur Prichep,0,United States,Henderson,Kentucky,42420.0,2,FUR-TA-10003392,0,16,Global Adaptabilities Conference Tables,842.94,3,1,5,1
+4454,CA-2017-147137,2017-04-07,0,AA-10645,Anna Andreadi,0,United States,San Francisco,California,94109.0,3,FUR-BO-10001811,0,4,"Atlantic Metals Mobile 5-Shelf Bookcases, Custom Colors",1279.165,4,2,4,1
+4492,CA-2015-150798,2015-01-12,2,JK-15730,Joe Kamberova,0,United States,Columbus,Ohio,43229.0,1,TEC-CO-10001571,2,6,Sharp 1540cs Digital Laser Copier,659.988,1,1,0,1
+4495,CA-2015-150798,2015-01-12,2,JK-15730,Joe Kamberova,0,United States,Columbus,Ohio,43229.0,1,FUR-CH-10000015,0,5,Hon Multipurpose Stacking Arm Chairs,909.72,1,1,0,1
+4498,CA-2018-155075,2018-02-12,3,GW-14605,Giulietta Weimer,0,United States,Philadelphia,Pennsylvania,19140.0,1,OFF-BI-10003650,1,3,GBC DocuBind 300 Electric Binding Machine,631.176,2,1,0,1
+4520,CA-2018-107167,2018-10-06,3,ND-18460,Neil Ducich,1,United States,Jacksonville,Florida,32216.0,2,OFF-ST-10003805,1,14,"24 Capacity Maxi Data Binder Racks, Pearl",1347.52,10,4,5,1
+4546,CA-2016-126557,2016-12-07,2,RL-19615,Rob Lucas,0,United States,Chicago,Illinois,60610.0,0,TEC-PH-10000526,2,13,Vtech CS6719,537.544,12,4,2,1
+4550,CA-2016-126557,2016-12-07,2,RL-19615,Rob Lucas,0,United States,Chicago,Illinois,60610.0,0,TEC-PH-10003963,2,13,GE 2-Jack Phone Line Splitter,659.168,12,4,2,1
+4574,CA-2017-139395,2017-12-12,3,MG-17650,Matthew Grinstein,2,United States,Jackson,Michigan,49201.0,0,TEC-PH-10002103,2,13,Jabra SPEAK 410,657.93,12,4,1,1
+4587,US-2018-163790,2018-02-11,2,NL-18310,Nancy Lomonaco,2,United States,Danville,California,94526.0,3,OFF-BI-10003718,1,3,GBC Therma-A-Bind 250T Electric Binding System,590.352,2,1,6,1
+4640,CA-2017-102162,2017-11-09,3,JF-15565,Jill Fjeld,0,United States,Newport News,Virginia,23602.0,2,TEC-CO-10001943,2,6,Canon PC-428 Personal Copier,1599.92,11,4,3,1
+4645,CA-2016-147501,2016-02-08,3,Co-12640,Corey-Lock,0,United States,Seattle,Washington,98105.0,3,TEC-MA-10001972,2,11,Okidata C331dn Printer,558.4,2,1,0,1
+4662,CA-2016-112130,2016-03-05,3,SV-20785,Stewart Visinsky,0,United States,Philadelphia,Pennsylvania,19140.0,1,FUR-CH-10002965,0,5,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",844.116,3,1,5,1
+4670,US-2018-133200,2018-06-05,3,DB-13555,Dorothy Badders,1,United States,Fort Worth,Texas,76106.0,0,FUR-BO-10001601,0,4,"Sauder Mission Library with Doors, Fruitwood Finish",623.4648,6,2,1,1
+4671,US-2018-133200,2018-06-05,3,DB-13555,Dorothy Badders,1,United States,Fort Worth,Texas,76106.0,0,OFF-ST-10001932,1,14,Fellowes Staxonsteel Drawer Files,772.68,6,2,1,1
+4683,CA-2017-127698,2017-01-12,1,MV-18190,Mike Vittorini,0,United States,Raleigh,North Carolina,27604.0,2,TEC-PH-10003811,2,13,Jabra Supreme Plus Driver Edition Headset,863.928,1,1,3,1
+4717,CA-2018-143126,2018-03-12,2,CM-12655,Corinna Mitchell,2,United States,Seattle,Washington,98115.0,3,FUR-TA-10002958,0,16,"Bevis Oval Conference Table, Walnut",521.96,3,1,0,1
+4726,CA-2017-131968,2017-11-11,3,LB-16795,Laurel Beltran,2,United States,Apopka,Florida,32712.0,2,OFF-AP-10001058,1,1,Sanyo 2.5 Cubic Foot Mid-Size Office Refrigerators,671.544,11,4,5,1
+4735,CA-2017-120530,2017-07-04,3,Dl-13600,Dorris liebe,1,United States,New York City,New York,10035.0,1,FUR-CH-10000454,0,5,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",658.746,7,3,1,1
+4751,CA-2017-127649,2017-07-10,0,DL-13495,Dionis Lloyd,1,United States,Spokane,Washington,99207.0,3,TEC-MA-10001972,2,11,Okidata C331dn Printer,837.6,7,3,0,1
+4759,CA-2015-121573,2015-03-11,3,SG-20605,Speros Goranitis,0,United States,New York City,New York,10009.0,1,TEC-PH-10000984,2,13,Panasonic KX-TG9471B,783.96,3,1,2,1
+4781,CA-2015-159310,2015-07-11,3,SC-20725,Steven Cartwright,0,United States,Houston,Texas,77070.0,0,FUR-CH-10002758,0,5,"Hon Deluxe Fabric Upholstered Stacking Chairs, Squared Back",683.144,7,3,5,1
+4851,CA-2015-107818,2015-08-09,3,MC-17275,Marc Crier,0,United States,Pasco,Washington,99301.0,3,FUR-CH-10000454,0,5,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",975.92,8,3,6,1
+4853,CA-2015-107818,2015-08-09,3,MC-17275,Marc Crier,0,United States,Pasco,Washington,99301.0,3,OFF-ST-10000736,1,14,Carina Double Wide Media Storage Towers in Natural & Black,485.88,8,3,6,1
+4862,CA-2015-138940,2015-11-04,2,GM-14455,Gary Mitchum,2,United States,Austin,Texas,78745.0,0,TEC-PH-10001835,2,13,Jawbone JAMBOX Wireless Bluetooth Speaker,758.352,11,4,2,1
+4881,CA-2018-143567,2018-02-11,2,TB-21175,Thomas Boland,1,United States,Henderson,Kentucky,42420.0,2,FUR-CH-10000454,0,5,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",975.92,2,1,6,1
+4882,CA-2018-143567,2018-02-11,2,TB-21175,Thomas Boland,1,United States,Henderson,Kentucky,42420.0,2,TEC-AC-10004145,2,0,Logitech diNovo Edge Keyboard,2249.91,2,1,6,1
+4905,US-2015-161613,2015-01-12,2,MC-17605,Matt Connell,1,United States,Houston,Texas,77070.0,0,FUR-CH-10003746,0,5,Hon 4070 Series Pagoda Round Back Stacking Chairs,674.058,1,1,0,1
+4929,CA-2018-143245,2018-01-12,3,AD-10180,Alan Dominguez,2,United States,Fairfield,Connecticut,6824.0,1,FUR-CH-10000155,0,5,Global Comet Stacking Armless Chair,897.15,1,1,4,1
+4941,CA-2016-156482,2016-06-02,3,IL-15100,Ivan Liston,0,United States,Wilmington,Delaware,19805.0,1,FUR-CH-10001708,0,5,Office Star - Contemporary Swivel Chair with Padded Adjustable Arms and Flex Back,1268.82,6,2,3,1
+4979,CA-2016-165050,2016-07-12,0,AH-10210,Alan Hwang,0,United States,New York City,New York,10024.0,1,TEC-PH-10001336,2,13,Digium D40 VoIP phone,773.94,7,3,1,1
+4992,US-2018-122714,2018-07-12,3,HG-14965,Henry Goldwyn,1,United States,Chicago,Illinois,60653.0,0,OFF-BI-10001120,1,3,Ibico EPK-21 Electric Binding System,1889.99,7,3,3,1
+5006,CA-2016-158659,2016-10-11,2,SC-20695,Steve Chapman,1,United States,Richmond,Indiana,47374.0,0,OFF-ST-10003306,1,14,Letter Size Cart,714.3,10,4,1,1
+5007,CA-2016-169796,2016-09-11,3,Dp-13240,Dean percer,2,United States,New York City,New York,10035.0,1,TEC-MA-10000045,2,11,Zebra ZM400 Thermal Label Printer,2321.9,9,3,6,1
+5010,CA-2016-102876,2016-07-09,3,LR-17035,Lisa Ryan,1,United States,Philadelphia,Pennsylvania,19134.0,1,TEC-PH-10002680,2,13,Samsung Galaxy Note 3,791.964,7,3,5,1
+5035,CA-2016-103954,2016-09-08,2,HR-14770,Hallie Redmond,2,United States,Milwaukee,Wisconsin,53209.0,0,FUR-BO-10004690,0,4,O'Sullivan Cherrywood Estates Traditional Barrister Bookcase,687.4,9,3,3,1
+5036,CA-2015-169803,2015-06-04,3,SC-20260,Scott Cohen,1,United States,Seattle,Washington,98115.0,3,FUR-TA-10000688,0,16,"Chromcraft Bull-Nose Wood Round Conference Table Top, Wood Base",653.55,6,2,3,1
+5040,CA-2016-136469,2016-11-07,0,TS-21370,Todd Sumrall,1,United States,Wilmington,Delaware,19805.0,1,TEC-PH-10001817,2,13,Wilson Electronics DB Pro Signal Booster,716.0,11,4,0,1
+5046,CA-2017-158694,2017-10-11,2,AI-10855,Arianne Irving,0,United States,Los Angeles,California,90036.0,3,OFF-ST-10001496,1,14,Standard Rollaway File with Lock,720.76,10,4,2,1
+5056,CA-2016-141243,2016-03-01,2,AH-10465,Amy Hunt,0,United States,Dallas,Texas,75217.0,0,FUR-BO-10003272,0,4,O'Sullivan Living Dimensions 5-Shelf Bookcases,1352.3976,3,1,1,1
+5060,CA-2017-109722,2017-05-12,2,TP-21130,Theone Pippenger,0,United States,Georgetown,Kentucky,40324.0,2,TEC-PH-10000560,2,13,Samsung Galaxy S III - 16GB - pebble blue (T-Mobile),699.98,5,2,4,1
+5061,CA-2017-109722,2017-05-12,2,TP-21130,Theone Pippenger,0,United States,Georgetown,Kentucky,40324.0,2,OFF-ST-10000060,1,14,Fellowes Bankers Box Staxonsteel Drawer File/Stacking System,584.82,5,2,4,1
+5069,CA-2015-124478,2015-08-08,3,MA-17560,Matt Abelman,2,United States,Trenton,Michigan,48183.0,0,TEC-CO-10001571,2,6,Sharp 1540cs Digital Laser Copier,549.99,8,3,5,1
+5142,CA-2017-111213,2017-01-04,3,FP-14320,Frank Preis,0,United States,New York City,New York,10009.0,1,FUR-CH-10000454,0,5,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",1317.492,1,1,2,1
+5168,CA-2015-121006,2015-10-11,3,SC-20020,Sam Craven,0,United States,Midland,Michigan,48640.0,0,FUR-CH-10004997,0,5,Hon Every-Day Series Multi-Task Chairs,563.94,10,4,6,1
+5170,CA-2015-121006,2015-10-11,3,SC-20020,Sam Craven,0,United States,Midland,Michigan,48640.0,0,OFF-ST-10001490,1,14,"Hot File 7-Pocket, Floor Stand",535.41,10,4,6,1
+5186,CA-2016-134719,2016-10-10,3,JD-15790,John Dryer,0,United States,Jacksonville,Florida,32216.0,2,OFF-ST-10004459,1,14,Tennsco Single-Tier Lockers,1801.632,10,4,0,1
+5199,CA-2017-103982,2017-03-03,3,AA-10315,Alex Avila,0,United States,Round Rock,Texas,78664.0,0,OFF-SU-10000151,1,15,High Speed Automatic Electric Letter Opener,3930.072,3,1,4,1
+5220,CA-2018-145653,2018-01-09,1,CA-12775,Cynthia Arntzen,0,United States,Detroit,Michigan,48205.0,0,FUR-CH-10004875,0,5,Harbour Creations 67200 Series Stacking Chairs,498.26,1,1,1,1
+5275,CA-2016-162887,2016-07-11,2,SV-20785,Stewart Visinsky,0,United States,Burlington,Vermont,-1.0,1,FUR-CH-10000595,0,5,Safco Contoured Stacking Chairs,715.2,7,3,0,1
+5291,CA-2015-146283,2015-08-09,3,KT-16465,Kean Takahito,0,United States,Houston,Texas,77036.0,0,FUR-CH-10004287,0,5,SAFCO Arco Folding Chair,966.7,8,3,6,1
+5321,US-2018-162558,2018-02-10,0,Dp-13240,Dean percer,2,United States,Knoxville,Tennessee,37918.0,2,FUR-TA-10000198,0,16,Chromcraft Bull-Nose Wood Oval Conference Tables & Bases,2314.116,2,1,5,1
+5342,CA-2016-146486,2016-09-11,2,DV-13465,Dianna Vittorini,0,United States,Oceanside,New York,11572.0,1,TEC-AC-10002637,2,0,Logitech VX Revolution Cordless Laser Mouse for Notebooks (Black),899.95,9,3,6,1
+5362,CA-2018-100951,2018-09-06,0,NC-18625,Noah Childs,1,United States,Dallas,Texas,75217.0,0,OFF-ST-10001496,1,14,Standard Rollaway File with Lock,720.76,9,3,3,1
+5400,CA-2017-117681,2017-09-04,3,HF-14995,Herbert Flentye,0,United States,Los Angeles,California,90004.0,3,FUR-BO-10001798,0,4,Bush Somerset Collection Bookcase,556.665,9,3,0,1
+5426,CA-2017-153598,2017-03-12,0,NM-18520,Neoma Murray,0,United States,Los Angeles,California,90045.0,3,TEC-AC-10003870,2,0,Logitech Z-906 Speaker sys - home theater - 5.1-CH,1649.95,3,1,6,1
+5440,CA-2017-167115,2017-04-04,3,EH-14185,Evan Henry,0,United States,New York City,New York,10035.0,1,OFF-BI-10004600,1,3,Ibico Ibimaster 300 Manual Binding System,588.784,4,2,1,1
+5460,CA-2018-116680,2018-04-09,2,PK-19075,Pete Kriz,0,United States,San Francisco,California,94122.0,3,FUR-TA-10001771,0,16,"Bush Cubix Conference Tables, Fully Assembled",1478.272,4,2,0,1
+5506,CA-2018-127782,2018-02-11,3,TH-21115,Thea Hudgings,1,United States,Philadelphia,Pennsylvania,19140.0,1,TEC-PH-10001817,2,13,Wilson Electronics DB Pro Signal Booster,859.2,2,1,6,1
+5531,CA-2018-160885,2018-02-12,3,JK-16090,Juliana Krohn,0,United States,Omaha,Nebraska,68104.0,0,TEC-PH-10001795,2,13,ClearOne CHATAttach 160 - speaker phone,2479.96,2,1,0,1
+5560,US-2016-114741,2016-06-12,3,IL-15100,Ivan Liston,0,United States,North Las Vegas,Nevada,89031.0,3,OFF-ST-10000078,1,14,Tennsco 6- and 18-Compartment Lockers,1325.85,6,2,6,1
+5605,CA-2016-142475,2016-03-12,3,BS-11380,Bill Stewart,1,United States,New York City,New York,10011.0,1,OFF-BI-10003718,1,3,GBC Therma-A-Bind 250T Electric Binding System,590.352,3,1,5,1
+5632,CA-2015-127614,2015-11-02,3,NF-18385,Natalie Fritzler,0,United States,Chesapeake,Virginia,23320.0,2,FUR-TA-10003715,0,16,Hon 2111 Invitation Series Corner Table,1256.22,11,4,0,1
+5684,CA-2015-164315,2015-02-04,3,RD-19585,Rob Dowd,0,United States,Athens,Georgia,30605.0,2,TEC-PH-10001128,2,13,Motorola Droid Maxx,1049.93,2,1,2,1
+5695,US-2016-138093,2016-10-12,3,KM-16225,Kalyca Meade,1,United States,Baltimore,Maryland,21215.0,1,FUR-CH-10000785,0,5,Global Ergonomic Managers Chair,542.94,10,4,2,1
+5711,US-2016-160857,2016-08-05,3,NW-18400,Natalie Webber,0,United States,New York City,New York,10024.0,1,TEC-CO-10004115,2,6,Sharp AL-1530CS Digital Copier,2799.944,8,3,4,1
+5716,CA-2016-124107,2016-09-10,2,BM-11650,Brian Moss,1,United States,Ann Arbor,Michigan,48104.0,0,TEC-AC-10002049,2,0,Logitech G19 Programmable Gaming Keyboard,619.95,9,3,5,1
+5727,CA-2016-110548,2016-04-05,3,AH-10690,Anna Häberlin,1,United States,Houston,Texas,77095.0,0,TEC-PH-10002922,2,13,ShoreTel ShorePhone IP 230 VoIP phone,946.344,4,2,1,1
+5729,CA-2018-117324,2018-08-12,3,JP-15520,Jeremy Pistek,0,United States,Madison,Wisconsin,53711.0,0,OFF-AP-10003590,1,1,Hoover WindTunnel Plus Canister Vacuum,1089.75,8,3,6,1
+5754,CA-2017-118514,2017-03-02,3,LC-17050,Liz Carlisle,0,United States,Richmond,Kentucky,40475.0,2,FUR-CH-10000015,0,5,Hon Multipurpose Stacking Arm Chairs,866.4,3,1,3,1
+5762,CA-2018-158169,2018-12-08,0,JM-16195,Justin MacKendrick,0,United States,Lake Forest,California,92630.0,3,OFF-AP-10000828,1,1,Avanti 4.4 Cu. Ft. Refrigerator,542.94,12,4,5,1
+5764,CA-2016-162047,2016-03-11,0,FH-14365,Fred Hopkins,1,United States,Long Beach,New York,11561.0,1,FUR-CH-10004983,0,5,Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms,1448.82,3,1,4,1
+5775,CA-2017-142398,2017-12-04,3,BP-11290,Beth Paige,0,United States,Los Angeles,California,90036.0,3,FUR-CH-10001545,0,5,Hon Comfortask Task/Swivel Chairs,638.288,12,4,0,1
+5801,CA-2015-123225,2015-11-07,0,MN-17935,Michael Nguyen,0,United States,El Paso,Texas,79907.0,0,TEC-PH-10000895,2,13,Polycom VVX 310 VoIP phone,575.968,11,4,5,1
+5830,CA-2017-122063,2017-03-12,3,MM-17920,Michael Moore,0,United States,Richmond,Indiana,47374.0,0,FUR-TA-10004575,0,16,Hon 5100 Series Wood Tables,581.96,3,1,6,1
+5849,CA-2016-121783,2016-10-11,3,PO-19180,Philisse Overcash,2,United States,Roseville,Minnesota,55113.0,0,OFF-AP-10003849,1,1,Hoover Shoulder Vac Commercial Portable Vacuum,715.64,10,4,1,1
+5850,CA-2016-121783,2016-10-11,3,PO-19180,Philisse Overcash,2,United States,Roseville,Minnesota,55113.0,0,OFF-ST-10000078,1,14,Tennsco 6- and 18-Compartment Lockers,795.51,10,4,1,1
+5851,CA-2016-121783,2016-10-11,3,PO-19180,Philisse Overcash,2,United States,Roseville,Minnesota,55113.0,0,TEC-CO-10001571,2,6,Sharp 1540cs Digital Laser Copier,549.99,10,4,1,1
+5867,US-2015-117968,2015-05-08,2,RS-19420,Ricardo Sperren,1,United States,Meriden,Connecticut,6450.0,1,FUR-CH-10002335,0,5,Hon GuestStacker Chair,1133.35,5,2,4,1
+5870,CA-2017-152247,2017-07-11,3,MA-17995,Michelle Arnett,2,United States,Cheyenne,Wyoming,82001.0,3,FUR-CH-10001215,0,5,Global Troy Executive Leather Low-Back Tilter,1603.136,7,3,1,1
+5926,CA-2018-150420,2018-03-06,3,GD-14590,Giulietta Dortch,1,United States,Bellingham,Washington,98226.0,3,TEC-AC-10004975,2,0,Plantronics Audio 995 Wireless Stereo Headset,1099.5,3,1,1,1
+5927,US-2015-118997,2015-08-04,3,RA-19885,Ruben Ausman,1,United States,Decatur,Alabama,35601.0,2,FUR-TA-10001086,0,16,"SAFCO PlanMaster Boards, 60w x 37-1/2d, White Melamine",1215.92,8,3,1,1
+5932,US-2018-169551,2018-07-07,0,RL-19615,Rob Lucas,0,United States,Philadelphia,Pennsylvania,19120.0,1,TEC-PH-10001363,2,13,Apple iPhone 5S,683.988,7,3,5,1
+5935,US-2018-169551,2018-07-07,0,RL-19615,Rob Lucas,0,United States,Philadelphia,Pennsylvania,19120.0,1,TEC-AC-10003033,2,0,Plantronics CS510 - Over-the-Head monaural Wireless Headset System,527.92,7,3,5,1
+5956,CA-2015-155796,2015-11-11,2,TS-21430,Tom Stivers,1,United States,Reading,Pennsylvania,19601.0,1,FUR-BO-10002545,0,4,"Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors",521.96,11,4,2,1
+5957,CA-2017-127138,2017-12-03,2,DK-13225,Dean Katz,1,United States,San Francisco,California,94109.0,3,OFF-ST-10002756,1,14,"Tennsco Stur-D-Stor Boltless Shelving, 5 Shelves, 24"" Deep, Sand",676.55,12,4,6,1
+5960,CA-2017-127138,2017-12-03,2,DK-13225,Dean Katz,1,United States,San Francisco,California,94109.0,3,FUR-CH-10003746,0,5,Hon 4070 Series Pagoda Round Back Stacking Chairs,770.352,12,4,6,1
+5962,CA-2015-140732,2015-11-11,2,MA-17560,Matt Abelman,2,United States,Los Angeles,California,90004.0,3,TEC-PH-10001425,2,13,Mophie Juice Pack Helium for iPhone,575.928,11,4,2,1
+6015,CA-2017-159016,2017-10-03,0,KF-16285,Karen Ferguson,2,United States,Los Angeles,California,90008.0,3,TEC-PH-10002885,2,13,Apple iPhone 5,4158.912,10,4,1,1
+6047,CA-2017-154662,2017-09-06,3,BF-11215,Benjamin Farhat,2,United States,Minneapolis,Minnesota,55407.0,0,FUR-TA-10001771,0,16,"Bush Cubix Conference Tables, Fully Assembled",692.94,9,3,2,1
+6049,CA-2016-105571,2016-07-11,3,CP-12340,Christine Phan,1,United States,Miami,Florida,33142.0,2,OFF-BI-10001359,1,3,GBC DocuBind TL300 Electric Binding System,1345.485,7,3,0,1
+6111,CA-2017-124590,2017-12-11,3,SP-20920,Susan Pistek,0,United States,Parma,Ohio,44134.0,1,FUR-CH-10004495,0,5,"Global Leather and Oak Executive Chair, Black",1474.802,12,4,0,1
+6114,CA-2017-124590,2017-12-11,3,SP-20920,Susan Pistek,0,United States,Parma,Ohio,44134.0,1,FUR-CH-10000454,0,5,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",1537.074,12,4,0,1
+6160,CA-2017-161025,2017-03-12,3,GM-14440,Gary McGarr,0,United States,Los Angeles,California,90049.0,3,OFF-ST-10001932,1,14,Fellowes Staxonsteel Drawer Files,772.68,3,1,6,1
+6175,US-2015-106299,2015-02-08,3,NZ-18565,Nick Zandusky,2,United States,Springfield,Missouri,65807.0,0,OFF-ST-10002011,1,14,Smead Adjustable Mobile File Trolley with Lockable Top,838.38,2,1,6,1
+6235,US-2018-142188,2018-11-09,1,JF-15415,Jennifer Ferguson,0,United States,Seattle,Washington,98105.0,3,OFF-BI-10004600,1,3,Ibico Ibimaster 300 Manual Binding System,1471.96,11,4,4,1
+6271,CA-2018-102379,2018-02-12,3,BB-11545,Brenda Bowman,1,United States,Oakland,California,94601.0,3,FUR-CH-10004983,0,5,Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms,1159.056,2,1,0,1
+6288,CA-2015-100090,2015-08-07,3,EB-13705,Ed Braxton,1,United States,San Francisco,California,94122.0,3,FUR-TA-10003715,0,16,Hon 2111 Invitation Series Corner Table,502.488,8,3,4,1
+6292,CA-2018-143756,2018-02-12,0,ME-17725,Max Engle,0,United States,Salem,Virginia,24153.0,2,FUR-CH-10001854,0,5,Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat,701.96,2,1,0,1
+6309,CA-2017-163328,2017-04-11,2,TP-21565,Tracy Poddar,1,United States,Eugene,Oregon,97405.0,3,FUR-CH-10000229,0,5,Global Enterprise Series Seating High-Back Swivel/Tilt Chairs,650.352,4,2,1,1
+6310,CA-2017-163328,2017-04-11,2,TP-21565,Tracy Poddar,1,United States,Eugene,Oregon,97405.0,3,OFF-LA-10003930,1,10,"Dot Matrix Printer Tape Reel Labels, White, 5000/Box",629.184,4,2,1,1
+6341,CA-2018-143112,2018-05-10,3,TS-21370,Todd Sumrall,1,United States,New York City,New York,10035.0,1,TEC-MA-10001047,2,11,"3D Systems Cube Printer, 2nd Generation, Magenta",5199.96,5,2,3,1
+6346,CA-2016-146255,2016-07-03,0,EM-14140,Eugene Moren,2,United States,Newark,Delaware,19711.0,1,TEC-PH-10001619,2,13,LG G3,587.97,7,3,6,1
+6399,CA-2018-151981,2018-06-08,3,GM-14455,Gary Mitchum,2,United States,Concord,New Hampshire,3301.0,1,TEC-PH-10003601,2,13,"Ativa D5772 2-Line 5.8GHz Digital Expandable Corded/Cordless Phone System with Answering & Caller ID/Call Waiting, Black/Silver",824.95,6,2,4,1
+6431,CA-2015-165764,2015-03-11,3,SH-20395,Shahid Hopkins,0,United States,Jacksonville,North Carolina,28540.0,2,FUR-TA-10001768,0,16,Hon Racetrack Conference Tables,945.036,3,1,2,1
+6440,CA-2015-166891,2015-04-10,0,CC-12220,Chris Cortes,0,United States,New York City,New York,10024.0,1,FUR-CH-10003298,0,5,"Office Star - Contemporary Task Swivel chair with Loop Arms, Charcoal",589.41,4,2,4,1
+6468,CA-2017-163804,2017-02-12,3,DB-13270,Deborah Brumfield,2,United States,Providence,Rhode Island,2908.0,1,OFF-ST-10000142,1,14,Deluxe Rollaway Locking File with Drawer,2079.4,2,1,6,1
+6469,CA-2017-163804,2017-02-12,3,DB-13270,Deborah Brumfield,2,United States,Providence,Rhode Island,2908.0,1,TEC-PH-10000441,2,13,VTech DS6151,629.95,2,1,6,1
+6480,CA-2018-140872,2018-03-06,3,NR-18550,Nick Radford,0,United States,Pembroke Pines,Florida,33024.0,2,TEC-PH-10000441,2,13,VTech DS6151,503.96,3,1,1,1
+6502,CA-2015-129147,2015-02-11,3,LC-17050,Liz Carlisle,0,United States,Medina,Ohio,44256.0,1,TEC-PH-10001299,2,13,Polycom CX300 Desktop Phone USB VoIP phone,539.964,2,1,2,1
+6548,CA-2015-113880,2015-01-03,3,VF-21715,Vicky Freymann,2,United States,Elmhurst,Illinois,60126.0,0,FUR-CH-10000863,0,5,Novimex Swivel Fabric Task Chair,634.116,1,1,5,1
+6559,CA-2016-166947,2016-05-06,3,EB-13750,Edward Becker,1,United States,Buffalo,New York,14215.0,1,FUR-CH-10004997,0,5,Hon Every-Day Series Multi-Task Chairs,1522.638,5,2,4,1
+6566,CA-2015-166086,2015-07-05,3,CT-11995,Carol Triggs,0,United States,Lawrence,Massachusetts,1841.0,1,FUR-CH-10004675,0,5,"Lifetime Advantage Folding Chairs, 4/Carton",872.32,7,3,6,1
+6576,CA-2018-123085,2018-03-03,3,EJ-13720,Ed Jacobs,0,United States,Los Angeles,California,90008.0,3,TEC-AC-10000990,2,0,Imation Bio 2GB USB Flash Drive Imation Corp,1049.44,3,1,5,1
+6636,CA-2018-144498,2018-06-05,1,MB-18085,Mick Brown,0,United States,Charlotte,North Carolina,28205.0,2,TEC-PH-10004977,2,13,GE 30524EE4,627.168,6,2,1,1
+6693,CA-2018-160899,2018-11-08,2,DR-12940,Daniel Raglin,2,United States,Lake Charles,Louisiana,70601.0,2,OFF-BI-10000632,1,3,Satellite Sectional Post Binders,477.51,11,4,3,1
+6707,CA-2017-112277,2017-10-09,3,SC-20695,Steve Chapman,1,United States,Fort Lauderdale,Florida,33311.0,2,TEC-PH-10003505,2,13,Geemarc AmpliPOWER60,519.68,10,4,0,1
+6737,CA-2017-123358,2017-10-04,3,BT-11680,Brian Thompson,0,United States,San Francisco,California,94122.0,3,OFF-ST-10001932,1,14,Fellowes Staxonsteel Drawer Files,579.51,10,4,2,1
+6765,CA-2017-144764,2017-02-09,3,RL-19615,Rob Lucas,0,United States,Chicago,Illinois,60623.0,0,TEC-MA-10003230,2,11,Okidata C610n Printer,1362.9,2,1,3,1
+6827,CA-2017-118689,2017-02-10,3,TC-20980,Tamara Chand,1,United States,Lafayette,Indiana,47905.0,0,TEC-CO-10004722,2,6,Canon imageCLASS 2200 Advanced Copier,17499.95,2,1,4,1
+6828,CA-2017-118689,2017-02-10,3,TC-20980,Tamara Chand,1,United States,Lafayette,Indiana,47905.0,0,OFF-BI-10004600,1,3,Ibico Ibimaster 300 Manual Binding System,735.98,2,1,4,1
+6839,CA-2018-107517,2018-05-02,3,FC-14335,Fred Chung,1,United States,Torrance,California,90503.0,3,OFF-AP-10000275,1,1,"Sanyo Counter Height Refrigerator with Crisper, 3.6 Cubic Foot, Stainless Steel/Black",1640.7,5,2,2,1
+6845,CA-2017-123946,2017-12-09,3,AJ-10795,Anthony Johnson,1,United States,Springfield,Virginia,22153.0,2,FUR-CH-10002073,0,5,Hon Olson Stacker Chairs,1059.12,12,4,5,1
+6846,CA-2015-147543,2015-06-07,3,BC-11125,Becky Castell,2,United States,El Cajon,California,92020.0,3,FUR-CH-10000155,0,5,Global Comet Stacking Armless Chair,478.48,6,2,6,1
+6851,US-2017-100461,2017-08-01,3,JO-15145,Jack O'Briant,1,United States,Franklin,Wisconsin,53132.0,0,FUR-BO-10002545,0,4,"Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors",1565.88,8,3,1,1
+6877,US-2017-121013,2017-05-09,3,MM-17920,Michael Moore,0,United States,Chesapeake,Virginia,23320.0,2,FUR-TA-10003238,0,16,"Chromcraft Bull-Nose Wood 48"" x 96"" Rectangular Conference Tables",1652.94,5,2,1,1
+6880,CA-2016-137113,2016-01-12,2,TW-21025,Tamara Willingham,2,United States,Seattle,Washington,98105.0,3,FUR-CH-10001215,0,5,Global Troy Executive Leather Low-Back Tilter,2003.92,1,1,1,1
+6882,CA-2016-137113,2016-01-12,2,TW-21025,Tamara Willingham,2,United States,Seattle,Washington,98105.0,3,FUR-TA-10001705,0,16,Bush Advantage Collection Round Conference Table,1913.4,1,1,1,1
+6901,CA-2016-140557,2016-07-09,3,TN-21040,Tanja Norvell,2,United States,New York City,New York,10009.0,1,TEC-AC-10002402,2,0,Razer Kraken PRO Over Ear PC and Music Headset,559.93,7,3,5,1
+6939,CA-2017-125094,2017-05-11,3,NP-18700,Nora Preis,0,United States,Seattle,Washington,98105.0,3,TEC-AC-10004420,2,0,Cherry 142-key Programmable Keyboard,479.72,5,2,3,1
+6955,CA-2016-129917,2016-02-10,0,HM-14980,Henry MacAllister,0,United States,Los Angeles,California,90008.0,3,TEC-PH-10000369,2,13,HTC One Mini,503.96,2,1,2,1
+6989,CA-2018-158561,2018-11-11,2,BB-11545,Brenda Bowman,1,United States,Fort Lauderdale,Florida,33311.0,2,OFF-AP-10002651,1,1,Hoover Upright Vacuum With Dirt Cup,1158.12,11,4,6,1
+7017,CA-2015-114790,2015-11-03,2,FM-14215,Filia McAdams,1,United States,Richmond,Kentucky,40475.0,2,TEC-PH-10000984,2,13,Panasonic KX-TG9471B,587.97,11,4,1,1
+7036,CA-2018-119494,2018-09-11,3,JE-15610,Jim Epp,1,United States,San Diego,California,92105.0,3,FUR-CH-10004675,0,5,"Lifetime Advantage Folding Chairs, 4/Carton",523.392,9,3,1,1
+7037,CA-2015-124618,2015-02-05,2,CS-11860,Cari Schnelling,0,United States,Lakeland,Florida,33801.0,2,TEC-CO-10004202,2,6,Brother DCP1000 Digital 3 in 1 Multifunction Machine,479.984,2,1,3,1
+7058,CA-2017-165330,2017-11-12,1,WB-21850,William Brown,0,United States,Anaheim,California,92804.0,3,FUR-TA-10004619,0,16,Hon Non-Folding Utility Tables,892.136,11,4,6,1
+7066,CA-2015-106726,2015-06-12,0,RS-19765,Roland Schwarz,1,United States,Los Angeles,California,90008.0,3,OFF-ST-10001496,1,14,Standard Rollaway File with Lock,1261.33,6,2,4,1
+7082,CA-2017-106950,2017-02-09,3,JE-15715,Joe Elijah,0,United States,Charlotte,North Carolina,28205.0,2,TEC-AC-10002049,2,0,Plantronics Savi W720 Multi-Device Wireless Headset System,1012.68,2,1,3,1
+7095,US-2016-153374,2016-09-02,2,JF-15565,Jill Fjeld,0,United States,Decatur,Illinois,62521.0,0,TEC-AC-10001908,2,0,Logitech Wireless Headset h800,479.952,9,3,4,1
+7115,US-2017-102239,2017-05-05,0,LW-16990,Lindsay Williams,1,United States,Henderson,Nevada,89015.0,3,FUR-TA-10003392,0,16,Global Adaptabilities Conference Tables,1685.88,5,2,4,1
+7144,US-2018-141558,2018-11-03,3,MH-17290,Marc Harrigan,2,United States,Philadelphia,Pennsylvania,19140.0,1,TEC-PH-10002555,2,13,Nortel Meridian M5316 Digital phone,776.85,11,4,5,1
+7191,CA-2017-164399,2017-12-11,0,DW-13480,Dianna Wilson,2,United States,San Diego,California,92024.0,3,FUR-TA-10003392,0,16,Global Adaptabilities Conference Tables,674.352,12,4,0,1
+7194,CA-2017-110492,2017-12-02,0,JS-15880,John Stevenson,0,United States,Atlanta,Georgia,30318.0,2,OFF-ST-10003716,1,14,Tennsco Double-Tier Lockers,1350.12,12,4,5,1
+7251,CA-2016-158491,2016-04-06,2,BP-11155,Becky Pak,0,United States,Los Angeles,California,90008.0,3,TEC-AC-10003870,2,0,Logitech Z-906 Speaker sys - home theater - 5.1-CH,989.97,4,2,2,1
+7277,CA-2015-120670,2015-02-11,3,JK-16120,Julie Kriz,2,United States,Fort Lauderdale,Florida,33311.0,2,TEC-AC-10004171,2,0,Razer Kraken 7.1 Surround Sound Over Ear USB Gaming Headset,799.92,2,1,2,1
+7289,CA-2015-158281,2015-02-09,3,AG-10525,Andy Gerbode,1,United States,Houston,Texas,77095.0,0,TEC-MA-10002210,2,11,Epson TM-T88V Direct Thermal Printer - Monochrome - Desktop,559.71,2,1,0,1
+7293,CA-2018-109183,2018-04-12,3,LR-16915,Lena Radford,0,United States,Nashville,Tennessee,37211.0,2,TEC-MA-10001856,2,11,Okidata C610n Printer,649.0,4,2,3,1
+7345,CA-2018-168389,2018-11-12,3,DV-13045,Darrin Van Huff,1,United States,Jacksonville,Florida,32216.0,2,FUR-TA-10004289,0,16,BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables,721.875,11,4,0,1
+7461,US-2016-136987,2016-11-04,2,AR-10540,Andy Reiter,0,United States,Los Angeles,California,90004.0,3,TEC-CO-10001943,2,6,Canon PC-428 Personal Copier,639.968,11,4,4,1
+7473,CA-2017-139997,2017-01-07,0,EM-14140,Eugene Moren,2,United States,Lehi,Utah,84043.0,3,TEC-CO-10000971,2,6,Hewlett Packard 310 Color Digital Copier,1499.95,1,1,5,1
+7475,CA-2015-167199,2015-06-01,3,ME-17320,Maria Etezadi,2,United States,Henderson,Kentucky,42420.0,2,FUR-CH-10004063,0,5,Global Deluxe High-Back Manager's Chair,2573.82,6,2,0,1
+7476,CA-2015-167199,2015-06-01,3,ME-17320,Maria Etezadi,2,United States,Henderson,Kentucky,42420.0,2,OFF-BI-10004632,1,3,Ibico Hi-Tech Manual Binding System,609.98,6,2,0,1
+7479,CA-2015-167199,2015-06-01,3,ME-17320,Maria Etezadi,2,United States,Henderson,Kentucky,42420.0,2,TEC-PH-10004539,2,13,Wireless Extenders zBoost YX545 SOHO Signal Booster,755.96,6,2,0,1
+7494,US-2018-160836,2018-11-09,3,CC-12475,Cindy Chapman,0,United States,Houston,Texas,77070.0,0,FUR-TA-10002855,0,16,Bevis Round Conference Table Top & Single Column Base,512.19,11,4,4,1
+7521,US-2018-167920,2018-09-12,2,JL-15835,John Lee,0,United States,Richmond,Kentucky,40475.0,2,TEC-CO-10001046,2,6,Canon Imageclass D680 Copier / Fax,1399.98,9,3,2,1
+7526,CA-2015-125731,2015-10-09,3,CL-12565,Clay Ludtke,0,United States,Gresham,Oregon,97030.0,3,FUR-CH-10003973,0,5,GuestStacker Chair with Chrome Finish Legs,1487.04,10,4,4,1
+7543,US-2018-112347,2018-02-12,3,BS-11380,Bill Stewart,1,United States,Denver,Colorado,80219.0,3,FUR-FU-10001488,0,9,"Tenex 46"" x 60"" Computer Anti-Static Chairmat, Rectangular Shaped",508.704,2,1,0,1
+7545,US-2018-112347,2018-02-12,3,BS-11380,Bill Stewart,1,United States,Denver,Colorado,80219.0,3,FUR-CH-10002335,0,5,Hon GuestStacker Chair,906.68,2,1,0,1
+7546,CA-2015-103492,2015-10-10,3,CM-12715,Craig Molinari,1,United States,Huntsville,Texas,77340.0,0,TEC-PH-10001128,2,13,Motorola Droid Maxx,719.952,10,4,5,1
+7547,CA-2015-103492,2015-10-10,3,CM-12715,Craig Molinari,1,United States,Huntsville,Texas,77340.0,0,TEC-PH-10004667,2,13,Cisco 8x8 Inc. 6753i IP Business Phone System,755.944,10,4,5,1
+7559,US-2015-137155,2015-01-11,3,DL-12925,Daniel Lacy,0,United States,Long Beach,New York,11561.0,1,OFF-AP-10002518,1,1,Kensington 7 Outlet MasterPiece Power Center,533.94,1,1,6,1
+7594,CA-2017-158778,2017-05-09,3,DB-13210,Dean Braden,0,United States,Philadelphia,Pennsylvania,19134.0,1,FUR-CH-10000309,0,5,Global Comet Stacking Arm Chair,887.271,5,2,1,1
+7618,CA-2017-144309,2017-10-12,3,CM-12235,Chris McAfee,0,United States,Watertown,New York,13601.0,1,OFF-BI-10003656,1,3,Fellowes PB200 Plastic Comb Binding Machine,679.96,10,4,3,1
+7642,US-2017-157490,2017-06-10,0,LB-16795,Laurel Beltran,2,United States,Pueblo,Colorado,81001.0,3,TEC-MA-10001695,2,11,Zebra GK420t Direct Thermal/Thermal Transfer Printer,703.71,6,2,5,1
+7646,CA-2016-161452,2016-05-04,3,CA-11965,Carol Adams,1,United States,Los Angeles,California,90036.0,3,FUR-CH-10003973,0,5,GuestStacker Chair with Chrome Finish Legs,892.224,5,2,2,1
+7647,US-2015-115196,2015-09-09,3,DL-12925,Daniel Lacy,0,United States,Greenville,North Carolina,27834.0,2,TEC-MA-10002073,2,11,"3D Systems Cube Printer, 2nd Generation, White",1299.99,9,3,2,1
+7667,US-2017-140158,2017-04-10,3,DR-12940,Daniel Raglin,2,United States,Providence,Rhode Island,2908.0,1,TEC-CO-10001449,2,6,Hewlett Packard LaserJet 3310 Copier,5399.91,4,2,0,1
+7766,US-2018-118941,2018-12-08,1,BB-11545,Brenda Bowman,1,United States,Columbia,Maryland,21044.0,1,FUR-CH-10002331,0,5,Hon 4700 Series Mobuis Mid-Back Task Chairs with Adjustable Arms,1779.9,12,4,5,1
+7770,CA-2017-155978,2017-01-08,1,TS-21205,Thomas Seio,1,United States,Riverside,California,92503.0,3,TEC-PH-10002885,2,13,Apple iPhone 5,1039.728,1,1,6,1
+7784,CA-2017-162236,2017-04-11,2,ER-13855,Elpida Rittenbach,1,United States,Charlotte,North Carolina,28205.0,2,FUR-TA-10002533,0,16,BPI Conference Tables,876.3,4,2,1,1
+7815,US-2018-109316,2018-08-06,0,MG-17680,Maureen Gastineau,2,United States,Los Angeles,California,90049.0,3,FUR-BO-10004834,0,4,"Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish",1497.666,8,3,0,1
+7821,CA-2018-152436,2018-08-12,2,CW-11905,Carl Weiss,2,United States,Cranston,Rhode Island,2920.0,1,OFF-ST-10000036,1,14,"Recycled Data-Pak for Archival Bound Computer Printouts, 12-1/2 x 12-1/2 x 16",592.74,8,3,6,1
+7873,CA-2017-101672,2017-03-10,3,DB-12910,Daniel Byrd,2,United States,Lake Forest,California,92630.0,3,FUR-CH-10004063,0,5,Global Deluxe High-Back Manager's Chair,915.136,3,1,4,1
+7998,US-2018-105998,2018-03-11,0,CR-12580,Clay Rozendal,2,United States,San Diego,California,92037.0,3,FUR-TA-10001095,0,16,Chromcraft Round Conference Tables,1673.184,3,1,6,1
+8029,CA-2016-132465,2016-11-09,2,DM-13525,Don Miller,1,United States,New York City,New York,10035.0,1,OFF-ST-10001932,1,14,Fellowes Staxonsteel Drawer Files,772.68,11,4,2,1
+8049,CA-2017-168543,2017-03-07,3,DK-13225,Dean Katz,1,United States,New York City,New York,10035.0,1,OFF-AP-10000938,1,1,Avanti 1.7 Cu. Ft. Refrigerator,706.86,3,1,1,1
+8101,CA-2017-169663,2017-10-03,0,RH-19510,Rick Huthwaite,2,United States,Los Angeles,California,90045.0,3,TEC-MA-10000984,2,11,Okidata MB760 Printer,3357.6,10,4,1,1
+8124,CA-2015-138128,2015-09-12,3,FP-14320,Frank Preis,0,United States,Philadelphia,Pennsylvania,19134.0,1,TEC-CO-10001766,2,6,Canon PC940 Copier,1079.976,9,3,5,1
+8128,CA-2016-137064,2016-06-02,3,TS-21655,Trudy Schmidt,0,United States,Houston,Texas,77070.0,0,OFF-ST-10003470,1,14,"Tennsco Snap-Together Open Shelving Units, Starter Sets and Add-On Units",670.752,6,2,3,1
+8137,CA-2017-118073,2017-12-08,3,CS-12490,Cindy Schnelling,1,United States,Lakeland,Florida,33801.0,2,FUR-TA-10002533,0,16,BPI Conference Tables,562.2925,12,4,4,1
+8144,CA-2017-100993,2017-05-02,3,AZ-10750,Annie Zypern,0,United States,San Diego,California,92037.0,3,FUR-TA-10001095,0,16,Chromcraft Round Conference Tables,557.728,5,2,1,1
+8167,CA-2016-168207,2016-02-11,3,LT-17110,Liz Thompson,0,United States,San Diego,California,92105.0,3,FUR-BO-10004357,0,4,O'Sullivan Living Dimensions 3-Shelf Bookcases,512.499,2,1,3,1
+8169,CA-2018-107174,2018-06-11,3,AB-10060,Adam Bellavance,2,United States,Seattle,Washington,98105.0,3,FUR-TA-10004575,0,16,Hon 5100 Series Wood Tables,2036.86,6,2,0,1
+8179,CA-2017-166429,2017-02-09,3,TG-21310,Toby Gnade,0,United States,Des Moines,Washington,98198.0,3,TEC-CO-10002095,2,6,Hewlett Packard 610 Color Digital Copier / Printer,999.98,2,1,3,1
+8203,CA-2016-114811,2016-08-11,1,KD-16495,Keith Dawkins,1,United States,New York City,New York,10024.0,1,TEC-PH-10004165,2,13,Mitel MiVoice 5330e IP Phone,549.98,8,3,3,1
+8205,CA-2016-114811,2016-08-11,1,KD-16495,Keith Dawkins,1,United States,New York City,New York,10024.0,1,TEC-MA-10000045,2,11,Zebra ZM400 Thermal Label Printer,4643.8,8,3,3,1
+8206,CA-2016-114811,2016-08-11,1,KD-16495,Keith Dawkins,1,United States,New York City,New York,10024.0,1,FUR-CH-10003746,0,5,Hon 4070 Series Pagoda Round Back Stacking Chairs,577.764,8,3,3,1
+8236,CA-2018-102204,2018-01-05,3,CJ-12010,Caroline Jumper,0,United States,Jacksonville,Florida,32216.0,2,FUR-TA-10001889,0,16,Bush Advantage Collection Racetrack Conference Table,933.262,1,1,4,1
+8237,CA-2018-102204,2018-01-05,3,CJ-12010,Caroline Jumper,0,United States,Jacksonville,Florida,32216.0,2,FUR-CH-10002024,0,5,HON 5400 Series Task Chairs for Big and Tall,2803.92,1,1,4,1
+8244,CA-2015-109897,2015-12-08,3,BW-11200,Ben Wallace,0,United States,San Francisco,California,94122.0,3,TEC-PH-10003691,2,13,BlackBerry Q10,806.336,12,4,1,1
+8249,CA-2017-133816,2017-10-05,2,CS-12400,Christopher Schild,2,United States,Philadelphia,Pennsylvania,19134.0,1,TEC-PH-10001795,2,13,ClearOne CHATAttach 160 - speaker phone,743.988,10,4,3,1
+8305,CA-2018-135419,2018-03-11,3,BG-11740,Bruce Geld,0,United States,Bakersfield,California,93309.0,3,FUR-TA-10001086,0,16,"SAFCO PlanMaster Boards, 60w x 37-1/2d, White Melamine",486.368,3,1,6,1
+8314,CA-2015-161508,2015-12-07,3,PV-18985,Paul Van Hugh,2,United States,League City,Texas,77573.0,0,FUR-CH-10002126,0,5,Hon Deluxe Fabric Upholstered Stacking Chairs,512.358,12,4,0,1
+8363,CA-2018-147207,2018-02-01,2,TS-21655,Trudy Schmidt,0,United States,El Paso,Texas,79907.0,0,FUR-TA-10002958,0,16,"Bevis Oval Conference Table, Walnut",913.43,2,1,3,1
+8370,CA-2017-118745,2017-11-06,3,SV-20365,Seth Vernon,0,United States,Los Angeles,California,90049.0,3,FUR-TA-10003473,0,16,Bretford Rectangular Conference Table Tops,902.712,11,4,0,1
+8395,CA-2017-142594,2017-01-12,2,EJ-14155,Eva Jacobs,0,United States,Franklin,Massachusetts,2038.0,1,OFF-AP-10002945,1,1,Honeywell Enviracaire Portable HEPA Air Cleaner for 17' x 22' Room,901.95,1,1,3,1
+8413,CA-2018-132290,2018-10-03,3,MD-17350,Maribeth Dona,0,United States,Dallas,Texas,75217.0,0,FUR-TA-10002228,0,16,"Bevis Traditional Conference Table Top, Plinth Base",933.408,10,4,2,1
+8425,CA-2018-150091,2018-12-10,3,NP-18670,Nora Paige,0,United States,Lakewood,New Jersey,8701.0,1,FUR-BO-10003404,0,4,"Global Adaptabilites Bookcase, Cherry/Storm Gray Finish",2154.9,12,4,0,1
+8469,US-2017-164196,2017-11-11,3,AS-10285,Alejandro Savely,1,United States,Noblesville,Indiana,46060.0,0,FUR-TA-10001950,0,16,Balt Solid Wood Round Tables,2678.94,11,4,5,1
+8489,CA-2017-158841,2017-02-02,2,SE-20110,Sanjit Engle,0,United States,Arlington,Virginia,22204.0,2,TEC-MA-10001127,2,11,"HP Designjet T520 Inkjet Large Format Printer - 24"" Color",8749.95,2,1,3,1
+8498,CA-2015-169061,2015-05-03,2,AB-10150,Aimee Bixby,0,United States,Yonkers,New York,10701.0,1,TEC-AC-10002001,2,0,Logitech Wireless Gaming Headset G930,479.97,5,2,6,1
+8540,CA-2018-147354,2018-09-03,3,KB-16315,Karl Braun,0,United States,Los Angeles,California,90008.0,3,TEC-CO-10000971,2,6,Hewlett Packard 310 Color Digital Copier,479.984,9,3,0,1
+8555,CA-2017-102092,2017-09-12,0,PM-18940,Paul MacIntyre,0,United States,Springfield,Virginia,22153.0,2,FUR-TA-10002530,0,16,"Iceberg OfficeWorks 42"" Round Tables",1056.86,9,3,1,1
+8563,CA-2017-123540,2017-02-04,2,DJ-13420,Denny Joy,1,United States,Milwaukee,Wisconsin,53209.0,0,FUR-CH-10000847,0,5,Global Executive Mid-Back Manager's Chair,1454.9,2,1,5,1
+8569,CA-2017-162390,2017-06-12,3,DP-13105,Dave Poirier,1,United States,Hempstead,New York,11550.0,1,OFF-BI-10004318,1,3,Ibico EB-19 Dual Function Manual Binding System,968.744,6,2,0,1
+8571,CA-2017-162390,2017-06-12,3,DP-13105,Dave Poirier,1,United States,Hempstead,New York,11550.0,1,TEC-CO-10004202,2,6,Brother DCP1000 Digital 3 in 1 Multifunction Machine,479.984,6,2,0,1
+8587,CA-2018-162015,2018-11-07,3,KB-16240,Karen Bern,1,United States,Los Angeles,California,90049.0,3,TEC-AC-10003832,2,0,Logitech P710e Mobile Speakerphone,1287.45,11,4,2,1
+8595,CA-2018-159667,2018-09-11,3,PM-19135,Peter McVee,2,United States,Jacksonville,Florida,32216.0,2,TEC-PH-10004094,2,13,Motorola L703CM,499.168,9,3,1,1
+8614,CA-2017-138233,2017-09-11,3,PF-19165,Philip Fox,0,United States,Oakland,California,94601.0,3,TEC-AC-10002001,2,0,Logitech Wireless Gaming Headset G930,479.97,9,3,0,1
+8630,CA-2016-164084,2016-07-09,3,AG-10525,Andy Gerbode,1,United States,New York City,New York,10011.0,1,FUR-TA-10003569,0,16,Bretford CR8500 Series Meeting Room Furniture,481.176,7,3,5,1
+8641,US-2018-148551,2018-12-01,3,DB-13120,David Bremer,1,United States,Dallas,Texas,75217.0,0,OFF-BI-10000545,1,3,GBC Ibimaster 500 Manual ProClick Binding System,760.98,12,4,5,1
+8663,CA-2016-131856,2016-12-05,3,JG-15160,James Galang,0,United States,Houston,Texas,77041.0,0,TEC-PH-10001336,2,13,Digium D40 VoIP phone,619.152,12,4,0,1
+8681,CA-2017-143805,2017-01-12,2,JD-15895,Jonathan Doherty,1,United States,Richmond,Virginia,23223.0,2,OFF-AP-10002945,1,1,Honeywell Enviracaire Portable HEPA Air Cleaner for 17' x 22' Room,2104.55,1,1,3,1
+8712,CA-2015-105648,2015-03-03,3,EJ-14155,Eva Jacobs,0,United States,San Diego,California,92037.0,3,FUR-TA-10002958,0,16,"Bevis Oval Conference Table, Walnut",626.352,3,1,1,1
+8737,CA-2017-168774,2017-04-09,3,RP-19855,Roy Phan,1,United States,Woodbury,Minnesota,55125.0,0,OFF-ST-10001490,1,14,"Hot File 7-Pocket, Floor Stand",535.41,4,2,6,1
+8777,CA-2017-102813,2017-02-07,0,EA-14035,Erin Ashbrook,1,United States,Huntsville,Texas,77340.0,0,FUR-CH-10000665,0,5,"Global Airflow Leather Mesh Back Chair, Black",528.43,2,1,1,1
+8782,CA-2016-133585,2016-01-03,0,CM-12715,Craig Molinari,1,United States,Houston,Texas,77070.0,0,FUR-BO-10001811,0,4,"Atlantic Metals Mobile 5-Shelf Bookcases, Custom Colors",1227.9984,1,1,6,1
+8799,US-2017-150140,2017-06-04,3,VM-21685,Valerie Mitchum,2,United States,Burlington,Vermont,-1.0,1,TEC-PH-10002555,2,13,Nortel Meridian M5316 Digital phone,1294.75,6,2,6,1
+8800,CA-2015-116666,2015-08-05,0,KT-16480,Kean Thornton,0,United States,Philadelphia,Pennsylvania,19134.0,1,TEC-CO-10001449,2,6,Hewlett Packard LaserJet 3310 Copier,1799.97,8,3,2,1
+8821,CA-2018-100622,2018-03-11,3,DK-13090,Dave Kipp,0,United States,Orlando,Florida,32839.0,2,TEC-CO-10003236,2,6,Canon Image Class D660 Copier,959.984,3,1,6,1
+8869,CA-2017-158260,2017-04-11,3,CC-12475,Cindy Chapman,0,United States,San Diego,California,92037.0,3,TEC-MA-10003176,2,11,Okidata B400 Printer,686.4,4,2,1,1
+8872,CA-2018-101805,2018-01-12,3,SH-19975,Sally Hughsby,1,United States,Seattle,Washington,98105.0,3,OFF-ST-10002756,1,14,"Tennsco Stur-D-Stor Boltless Shelving, 5 Shelves, 24"" Deep, Sand",541.24,1,1,4,1
+8889,CA-2018-103968,2018-01-12,3,ML-17755,Max Ludwig,2,United States,Stockton,California,95207.0,3,FUR-FU-10003394,0,9,"Tenex ""The Solids"" Textured Chair Mats",629.64,1,1,4,1
+8893,CA-2016-111038,2016-01-12,3,LC-16960,Lindsay Castell,2,United States,San Diego,California,92037.0,3,FUR-CH-10003973,0,5,GuestStacker Chair with Chrome Finish Legs,2676.672,1,1,1,1
+8894,CA-2015-124723,2015-05-08,3,GZ-14470,Gary Zandusky,0,United States,Texas City,Texas,77590.0,0,FUR-TA-10001307,0,16,"SAFCO PlanMaster Heigh-Adjustable Drafting Table Base, 43w x 30d x 30-37h, Black",489.23,5,2,4,1
+8899,CA-2016-163237,2016-07-08,2,EM-14095,Eudokia Martin,1,United States,Springfield,Virginia,22153.0,2,TEC-PH-10003601,2,13,"Ativa D5772 2-Line 5.8GHz Digital Expandable Corded/Cordless Phone System with Answering & Caller ID/Call Waiting, Black/Silver",494.97,7,3,4,1
+8915,US-2017-144057,2017-09-05,3,CV-12805,Cynthia Voltz,1,United States,Austin,Texas,78745.0,0,OFF-ST-10001490,1,14,"Hot File 7-Pocket, Floor Stand",856.656,9,3,1,1
+8965,CA-2017-157280,2017-05-11,0,LW-17125,Liz Willingham,0,United States,Virginia Beach,Virginia,23464.0,2,FUR-FU-10003806,0,9,"Tenex Chairmat w/ Average Lip, 45"" x 53""",756.8,5,2,3,1
+9034,CA-2015-152268,2015-02-09,3,SC-20095,Sanjit Chand,0,United States,Fayetteville,Arkansas,72701.0,2,OFF-BI-10001359,1,3,GBC DocuBind TL300 Electric Binding System,1793.98,2,1,0,1
+9044,CA-2017-168830,2017-07-11,3,ML-17395,Marina Lichtenstein,1,United States,San Francisco,California,94122.0,3,TEC-AC-10003911,2,0,NETGEAR AC1750 Dual Band Gigabit Smart WiFi Router,479.97,7,3,1,1
+9057,CA-2016-160227,2016-02-11,0,ED-13885,Emily Ducich,2,United States,New York City,New York,10011.0,1,FUR-CH-10002073,0,5,Hon Olson Stacker Chairs,2621.322,2,1,3,1
+9101,CA-2018-152933,2018-12-10,3,MG-17650,Matthew Grinstein,2,United States,Dallas,Texas,75081.0,0,TEC-AC-10003033,2,0,Plantronics CS510 - Over-the-Head monaural Wireless Headset System,791.88,12,4,0,1
+9115,CA-2017-135461,2017-07-02,2,EB-13975,Erica Bern,1,United States,Los Angeles,California,90049.0,3,TEC-PH-10004094,2,13,Motorola L703CM,623.96,7,3,6,1
+9140,CA-2015-106971,2015-02-09,3,BM-11785,Bryan Mills,0,United States,Buffalo Grove,Illinois,60089.0,0,TEC-AC-10000844,2,0,Logitech Gaming G510s - Keyboard,475.944,2,1,0,1
+9163,CA-2017-160108,2017-08-12,3,AG-10900,Arthur Gainer,0,United States,Eau Claire,Wisconsin,54703.0,0,FUR-CH-10002335,0,5,Hon GuestStacker Chair,680.01,8,3,5,1
+9173,US-2017-155768,2017-01-12,1,LB-16795,Laurel Beltran,2,United States,Oxnard,California,93030.0,3,OFF-ST-10002292,1,14,"Sauder Facets Collection Locker/File Cabinet, Sky Alder Finish",1112.94,1,1,3,1
+9180,CA-2018-156776,2018-07-08,3,JL-15505,Jeremy Lonsdale,0,United States,Westminster,California,92683.0,3,TEC-PH-10002415,2,13,Polycom VoiceStation 500 Conference phone,707.88,7,3,6,1
+9187,CA-2018-156776,2018-07-08,3,JL-15505,Jeremy Lonsdale,0,United States,Westminster,California,92683.0,3,OFF-AP-10002534,1,1,3.6 Cubic Foot Counter Height Office Refrigerator,1473.1,7,3,6,1
+9198,CA-2015-103310,2015-10-05,3,GM-14680,Greg Matthias,0,United States,San Jose,California,95123.0,3,TEC-PH-10001817,2,13,Wilson Electronics DB Pro Signal Booster,1432.0,10,4,0,1
+9235,CA-2017-126732,2017-02-09,3,LR-16915,Lena Radford,0,United States,Los Angeles,California,90036.0,3,TEC-PH-10001530,2,13,Cisco Unified IP Phone 7945G VoIP phone,1091.168,2,1,3,1
+9237,CA-2017-126732,2017-02-09,3,LR-16915,Lena Radford,0,United States,Los Angeles,California,90036.0,3,FUR-TA-10001539,0,16,Chromcraft Rectangular Conference Tables,568.728,2,1,3,1
+9250,CA-2017-127761,2017-10-11,3,SW-20275,Scott Williamson,0,United States,New York City,New York,10009.0,1,TEC-PH-10003691,2,13,BlackBerry Q10,881.93,10,4,2,1
+9273,CA-2017-100510,2017-12-05,3,HM-14860,Harry Marie,1,United States,New York City,New York,10024.0,1,TEC-PH-10001835,2,13,Jawbone JAMBOX Wireless Bluetooth Speaker,631.96,12,4,1,1
+9274,CA-2018-146983,2018-02-09,3,AH-10210,Alan Hwang,0,United States,Henderson,Kentucky,42420.0,2,OFF-BI-10003650,1,3,GBC DocuBind 300 Electric Binding Machine,1577.94,2,1,4,1
+9317,CA-2017-161907,2017-05-04,3,JH-16180,Justin Hirsh,0,United States,Philadelphia,Pennsylvania,19140.0,1,OFF-SU-10000646,1,15,Premier Automatic Letter Opener,769.184,5,2,3,1
+9368,CA-2015-108147,2015-08-06,3,RD-19480,Rick Duston,0,United States,Long Beach,New York,11561.0,1,OFF-ST-10003470,1,14,"Tennsco Snap-Together Open Shelving Units, Starter Sets and Add-On Units",1676.88,8,3,3,1
+9404,CA-2017-105459,2017-12-08,2,NP-18700,Nora Preis,0,United States,New York City,New York,10024.0,1,OFF-ST-10000078,1,14,Tennsco 6- and 18-Compartment Lockers,1591.02,12,4,4,1
+9426,CA-2015-116246,2015-12-09,2,LW-17215,Luke Weiss,0,United States,New York City,New York,10035.0,1,FUR-CH-10002024,0,5,HON 5400 Series Task Chairs for Big and Tall,3785.292,12,4,2,1
+9429,CA-2015-152100,2015-11-05,3,VW-21775,Victoria Wilson,1,United States,Huntsville,Texas,77340.0,0,FUR-CH-10000015,0,5,Hon Multipurpose Stacking Arm Chairs,1212.96,11,4,3,1
+9485,CA-2017-164770,2017-02-12,2,MY-18295,Muhammed Yedwab,1,United States,Houston,Texas,77036.0,0,FUR-BO-10003893,0,4,Sauder Camden County Collection Library,781.864,2,1,6,1
+9487,CA-2018-130505,2018-12-10,1,NF-18385,Natalie Fritzler,0,United States,Wheeling,West Virginia,26003.0,1,FUR-TA-10001932,0,16,"Chromcraft 48"" x 96"" Racetrack Double Pedestal Table",673.344,12,4,0,1
+9489,CA-2016-156566,2016-01-10,0,EM-13960,Eric Murdock,0,United States,Portland,Oregon,97206.0,3,TEC-PH-10001817,2,13,Wilson Electronics DB Pro Signal Booster,572.8,1,1,6,1
+9491,CA-2018-111738,2018-03-01,3,CM-12385,Christopher Martinez,0,United States,San Francisco,California,94110.0,3,OFF-BI-10004584,1,3,GBC ProClick 150 Presentation Binding System,2022.272,3,1,3,1
+9494,CA-2017-105207,2017-03-01,3,BO-11350,Bill Overfelt,1,United States,Broken Arrow,Oklahoma,74012.0,0,FUR-TA-10000617,0,16,"Hon Practical Foundations 30 x 60 Training Table, Light Gray/Charcoal",1592.85,3,1,2,1
+9510,CA-2015-149104,2015-05-04,2,RD-19900,Ruben Dartt,0,United States,Dearborn Heights,Michigan,48127.0,0,OFF-ST-10000991,1,14,Space Solutions HD Industrial Steel Shelving.,689.82,5,2,0,1
+9552,CA-2016-147690,2016-10-11,3,SC-20020,Sam Craven,0,United States,Philadelphia,Pennsylvania,19140.0,1,OFF-ST-10001526,1,14,Iceberg Mobile Mega Data/Printer Cart,577.584,10,4,1,1
+9616,CA-2015-128524,2015-11-11,0,MZ-17515,Mary Zewe,1,United States,Seattle,Washington,98115.0,3,OFF-BI-10003527,1,3,Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind,2033.584,11,4,2,1
+9644,CA-2015-104563,2015-07-03,3,CM-12715,Craig Molinari,1,United States,Seattle,Washington,98103.0,3,FUR-CH-10004495,0,5,"Global Leather and Oak Executive Chair, Black",481.568,7,3,4,1
+9661,CA-2017-160717,2017-06-06,3,ME-17320,Maria Etezadi,2,United States,Santa Barbara,California,93101.0,3,TEC-PH-10001459,2,13,Samsung Galaxy Mega 6.3,3023.928,6,2,1,1
+9663,CA-2017-160717,2017-06-06,3,ME-17320,Maria Etezadi,2,United States,Santa Barbara,California,93101.0,3,TEC-PH-10001760,2,13,Bose SoundLink Bluetooth Speaker,477.6,6,2,1,1
+9697,CA-2015-144281,2015-10-06,2,HK-14890,Heather Kirkland,1,United States,Detroit,Michigan,48234.0,0,OFF-LA-10003930,1,10,"Dot Matrix Printer Tape Reel Labels, White, 5000/Box",491.55,10,4,1,1
+9713,CA-2015-114251,2015-05-11,3,MD-17350,Maribeth Dona,0,United States,Philadelphia,Pennsylvania,19143.0,1,OFF-ST-10003716,1,14,Tennsco Double-Tier Lockers,1080.096,5,2,0,1
+9728,CA-2018-167395,2018-02-12,0,KM-16720,Kunst Miller,0,United States,Lowell,Massachusetts,1852.0,1,TEC-PH-10004977,2,13,GE 30524EE4,979.95,2,1,0,1
+9742,CA-2016-117086,2016-08-11,3,QJ-19255,Quincy Jones,1,United States,Burlington,Vermont,-1.0,1,FUR-BO-10004834,0,4,"Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish",4404.9,8,3,3,1
+9749,US-2015-140914,2015-11-11,3,BH-11710,Brosina Hoffman,0,United States,Chicago,Illinois,60653.0,0,FUR-CH-10003379,0,5,Global Commerce Series High-Back Swivel/Tilt Chairs,797.944,11,4,2,1
