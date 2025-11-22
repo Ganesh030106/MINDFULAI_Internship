@@ -17,7 +17,7 @@ def rupees(x):
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("Cleaned_dataset.csv")
+    df = pd.read_csv("F:\\Offline internship\\Mindfluai_Internship\\Cleaned_dataset.csv")
     df['Order Date'] = pd.to_datetime(df['Order Date'], errors='coerce')
     df['Sales'] = pd.to_numeric(df['Sales'], errors='coerce')
     return df.dropna(subset=['Order Date', 'Sales'])
@@ -71,7 +71,7 @@ else:
 
 # --- Monthly Sales Trend ---
 st.subheader("📅 Monthly Sales Trend")
-monthly_sales = filtered_df.resample("M", on="Order Date")["Sales"].sum().reset_index()
+monthly_sales = filtered_df.resample("ME", on="Order Date")["Sales"].sum().reset_index()
 fig2, ax2 = plt.subplots()
 ax2.plot(monthly_sales["Order Date"], monthly_sales["Sales"], marker='o', color='teal')
 ax2.set_xlabel("Month")
@@ -156,7 +156,7 @@ if 'Ship Mode' in filtered_df.columns:
 if 'Sub-Category' in filtered_df.columns:
     st.subheader("📦 Sales Distribution per Sub-Category")
     fig_box, ax_box = plt.subplots(figsize=(10,5))
-    sns.boxplot(data=filtered_df, x="Sub-Category", y="Sales", ax=ax_box, palette="Set3")
+    sns.boxplot(data=filtered_df,x="Sub-Category",y="Sales",hue="Sub-Category",ax=ax_box,palette="Set3",legend=False)
     ax_box.set_xlabel("Sub-Category")
     ax_box.set_ylabel("Sales (₹)")
     ax_box.set_title("Sub-Category Sales Boxplot")

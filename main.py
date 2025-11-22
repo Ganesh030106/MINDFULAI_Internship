@@ -16,9 +16,7 @@ from prophet import Prophet
 import warnings
 warnings.filterwarnings('ignore')
 
-
 REPORT_FOLDER = "reports"
-
 
 def ensure_reports_dir():
     if not os.path.exists(REPORT_FOLDER):
@@ -70,6 +68,10 @@ def detect_anomalies(df):
     plt.savefig(os.path.join(REPORT_FOLDER, "1. sales_anomalies_boxplot.png"))
     plt.show()
     plt.close()
+
+    df_cleaned = df[~((df['Sales'] < lower) | (df['Sales'] > upper))].copy()
+    print(f"Removed {len(anomalies)} anomalies. Remaining records: {len(df_cleaned)}")
+    return df_cleaned
 
 
 def plot_scatter(df, x_col, y_col, hue_col, title, filename):
@@ -199,7 +201,7 @@ def run_forecasting(df):
 
 def main():
     ensure_reports_dir()
-    file_path = "E:/Project Internship/Mindfluai/data/train.csv"
+    file_path = "F:\\Offline internship\\Mindfluai_Internship\\data\\train.csv"
     df = load_fresh_data(file_path)
     df, features = preprocess_data(df)
 
@@ -214,6 +216,12 @@ def main():
     run_regression(df, ml_features)
     run_forecasting(df)
     df.to_csv("Cleaned_dataset.csv", index=False)
+
+    df_no_anomalies = detect_anomalies(df.copy())
+
+    cleaned_output_path = "Cleaned_dataset_no_anomalies.csv"
+    df_no_anomalies.to_csv(cleaned_output_path, index=False)
+    print(f"\nFinal cleaned dataset (without anomalies) saved to '{cleaned_output_path}'")
 
 if __name__ == "__main__":
     main()
